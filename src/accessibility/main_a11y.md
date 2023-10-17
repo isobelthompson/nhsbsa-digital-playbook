@@ -1,0 +1,67 @@
+---
+layout: page
+title: "Accessibility Statement"
+description: 
+status: DRAFT
+tags:
+order:
+---
+## Accessibility statement
+
+## Why do we need to make our products accessible?  
+
+
+Legally as part of the public sector we are required by law to meet accessibility requirements for both internal and external users.  
+  
+
+We also want to ensure all our users can access and use our products easily and without hinderance. This means that if an individual has an illness, impairment, or a disability, they will be able to use our products. We should prioritise making something accessible without alternative options, with an alternative option being a second resort, to ensure the user can obtain the same information. For example, you would not make text small assuming someone could use a magnifier.  
+  
+
+An alternative route for someone with impaired vision would be to use a screen reader (software that lets a user navigate a website and ‘read out’ the content), braille display or screen magnifier. Or someone with motor difficulties might use a special mouse, speech recognition software or on-screen keyboard emulator. However, the content should first be prioritised as accessible.   
+[Source][source 1] 
+[Source][source 2]  
+
+The WCAG (Web Content Accessibility Guidelines) provides technical specifications to improve the accessibility of web content, websites and web applications on desktop computers, laptops, tablets and mobile devices for people with a wide range of disabilities, including auditory, cognitive, neurological, physical, speech and visual disabilities. WCAG 2.1 have a list of “success criteria,” or requirements for making content – including text, images, sounds, code and markup – more accessible. There are three levels of conformance: A (minimum accessibility), AA (addresses the most common accessibility issues) and AAA (the highest standard).  
+[Source][source 3]
+
+  
+## What are the key stages of accessibility?  
+  
+There are six key stages to ensure accessibility:  
+-	Product and delivery: [Product and Delivery Service Manual Link][source 4]
+-	User research: [User Research Service Manual Link][source 5] 
+-	Content: [Content Service Manual Link][source 6]
+-	Design: [Design Service Manual Link][source 7]
+-	Development: [Development Service Manual Link][source 8]
+-	Testing: [Testing Service Manual Link][source 9]  
+
+Please ensure that through every stage of the process, the correct individuals are consulting the appropriate guidance to their stage of work.
+
+
+## Alternative options for an equivalent experience    
+
+There should always be an alternative option available for a user to gain an equivalent experience. The alternative should be in text format.  
+Some examples of this include:  
+-	Text alternatives for people who struggle with charts
+-	The ability to toggle between a chart and a table
+-	The ability to toggle between a chart and text
+-	Including alt text for a screen readers use
+-	Not including images of text as they are hard to read, all text should be outside in the body of the text  
+A toggle example: [Power BI toggle chart][source 10]    
+
+[Source][source 11]
+
+  
+
+  
+[source 1]: https://www.legislation.gov.uk/uksi/2018/952/made  
+[source 2]: https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps  
+[source 3]: https://kma.global/wp-content/uploads/2019/07/WCAG_2.1_Checklist.pdf  
+[source 4]: https://service-manual.nhs.uk/accessibility/product-and-delivery
+[source 5]: https://service-manual.nhs.uk/accessibility/user-research
+[source 6]: https://service-manual.nhs.uk/accessibility/content
+[source 7]: https://service-manual.nhs.uk/accessibility/design
+[source 8]: https://service-manual.nhs.uk/accessibility/development
+[source 9]: https://service-manual.nhs.uk/accessibility/testing
+[source 10]: https://visualbi.com/blogs/business-intelligence/toggle-chart-table-power-bi/
+[source 11]: https://accessibility.blog.gov.uk/2023/04/13/text-descriptions-for-data-visualisations/
