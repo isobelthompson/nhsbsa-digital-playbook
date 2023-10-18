@@ -15,7 +15,7 @@ Features such as parameters can be created and used to change variables used wit
 ![Screenshot of a Provider Assurance Report Summary, showing the Contact type set to Email](image.png)  
   
 To ensure data literacy in our end users, and developers, any filters applied should always be clearly stated on the dashboard or report. For example, on Oracle Analytics Classic a disclaimer may be added onto the dashboard:  
-![Screenshot of an Oracle Analytics Classic results page showing the filter that has been applied]](image-1.png)  
+![Screenshot of an Oracle Analytics Classic results page showing the filter that has been applied](image-1.png)  
 
 ## Placement of a filter  
   
