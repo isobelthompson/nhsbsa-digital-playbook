@@ -77,6 +77,28 @@ Microsoft guidance on Q&A functionality - [Link][hint 4]
   
 What can you do to ensure you're using the latest content? In most cases, you don’t need to do anything at all. Any content, like apps, dashboards, scorecards, or reports, that's been shared with you is automatically refreshed and updated on a schedule that's set by the designer. The designer either manually updates content, or they can update it automatically by setting an automated refresh schedule.  
   
+If you have questions about content freshness, contact the designer directly. The examples below show you how to identify and contact the owner of your content.  
+![Screenshot showing where to find owner and refresh date](image-8.png)  
+  
+Microsoft guidance on checking data refreshes - [Link][hint 5]  
+  
+    
+## Bookmarking settings on a report  
+  
+Please note, this functionality requires a Pro or Premium licence.  
+  
+A bookmark captures the state of a report page. It includes the settings you've made to filters, slicers, and visuals on that page. After the report page is set the way you want, give it a friendly name. Now you can easily return to that state of the report page. Select a bookmark, and Power BI takes you back to that view.  
+  
+The maximum number of personal bookmarks per report is 20. When you create a bookmark, the following elements are saved with the bookmark:  
+-	The current page
+-	Filters
+-	Slicers, including slicer type (for example, dropdown or list) and slicer state
+-	Visual selection state (such as cross-highlight filters)
+-	Sort order
+-	Drill location  
+  
+Microsoft guidance on bookmarks - [Link][hint 6]
+
 
   
 
@@ -89,3 +111,5 @@ What can you do to ensure you're using the latest content? In most cases, you do
 [hint 2]: https://learn.microsoft.com/en-us/power-bi/consumer/end-user-report-filter
 [hint 3]: https://learn.microsoft.com/en-us/power-bi/consumer/end-user-drill
 [hint 4]: https://learn.microsoft.com/en-us/power-bi/consumer/end-user-q-and-a
+[hint 5]: https://learn.microsoft.com/en-us/power-bi/consumer/end-user-fresh
+[hint 6]: https://learn.microsoft.com/en-us/power-bi/consumer/end-user-bookmarks 
