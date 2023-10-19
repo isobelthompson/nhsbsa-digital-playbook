@@ -6,6 +6,9 @@ status: DRAFT
 tags:
 order:
 ---
+The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the Data Visualisation Standards when producing Data Visualisation Products.  
+  
+
 ## Workspaces 
 A workspace is a central space (think alike a SharePoint folder), where a Power BI dashboard or report can be published to alongside the data.  
    

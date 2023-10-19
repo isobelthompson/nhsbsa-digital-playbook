@@ -6,6 +6,9 @@ status: DRAFT
 tags:
 order:
 ---
+The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the Data Visualisation Standards when producing Data Visualisation Products.  
+  
+
 ## Data source methods  
   
 There are various data sources available in Power BI. Your use case depends on which method you use.  
