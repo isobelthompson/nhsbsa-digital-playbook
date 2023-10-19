@@ -35,9 +35,38 @@ Example A: Using colour to connect information. Note how ‘Services’ uses a d
 [Source][colours 5]  
 
 
-  
-    
+## Focus charts  
 
+Focus charts are charts which use colour to highlight specific elements to help users understand the information.  
+The primary colour NHS Blue (#005EB8) should be used to pull focus, against NHS Grey 3 (#aeb7bd).  
+  
+[Source][colours 6] 
+[Source][colours 7]  
+
+  
+## Text  
+
+The primary text colour to use is: #212b32
+This should be used across the majority of headers and body of text.
+The secondary text colour to use is: #4c6272
+This can be used for things such as a search box, or secondary content such as the heading of a links section.
+  
+[Source][colours 8]  
+
+
+## Alerts  
+
+To focus the readers attention, you can use a background of NHS Blue (005EB8), with a bold white text. Otherwise if the alert is urgent or extremely important the NHS Pale Yellow (#fff9c4) background can be used with the primary text colour (#212b32).  
+
+  
+## Useful links  
+-	[Government Analysis Function guidance][link 1] 
+-	[Digital Service Manual, NHS Colours][link 2] 
+-	[NHS Identity Guidelines][link 3] 
+-	[GOV.UK Design System, Colours][link 4] 
+-	[GOV.UK Elements has now been replaced by the GOV.UK Design System][link 5] 
+-	[Tint and Shade Generator][link 6] 
+  
 
 
 [colours 1]: https://nhsbsauk.sharepoint.com/sites/CommsMarketing/SitePages/Our-brand.aspx
@@ -47,3 +76,12 @@ Example A: Using colour to connect information. Note how ‘Services’ uses a d
 [webaim 2]: https://contrastchecker.com/
 [colours 4]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/#section-3
 [colours 5]: https://style.ons.gov.uk/data-visualisation/using-colours/using-colour-to-connect-information/
+[colours 6]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/#section-7
+[colours 7]: https://service-manual.nhs.uk/design-system/styles/colour  
+[colours 8]: https://service-manual.nhs.uk/design-system/styles/colour
+[link 1]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts
+[link 2]: https://service-manual.nhs.uk/design-system/styles/colour 
+[link 3]: https://www.england.nhs.uk/nhsidentity/identity-guidelines/colours/
+[link 4]: https://design-system.service.gov.uk/styles/colour/
+[link 5]: https://govuk-elements.herokuapp.com/colour/ 
+[link 6]: https://maketintsandshades.com 
