@@ -34,10 +34,9 @@ Example A: Using colour to connect information. Note how ‘Services’ uses a d
   
 [Source][colours 5]  
 
-## Background  
+
   
-Use a plain background, NHS Grey 5 (#f0f4f5) should be used.  
-NHS White (#ffffff) is used to make important information stand out and for alternating backgrounds, for example on the NHS website home page.
+    
 
 
 
