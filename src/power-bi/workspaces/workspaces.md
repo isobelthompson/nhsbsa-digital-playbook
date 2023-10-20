@@ -35,7 +35,7 @@ Access to the data held within that workspace should be determined on the data i
 ## Workspace requests  
   
 To create a workspace, create a Service Request under the following categories:  
-![Screenshot showing how to configurethe Category, Sub-category and Item fields of a service desk request](image.png)  
+![Screenshot showing how to configurethe Category, Sub-category and Item fields of a service desk request](categories.png)  
   
 The following details should be included:  
 -	The name of the workspace, this should be at a team level (please check with your team if one is currently set up before making a request)
