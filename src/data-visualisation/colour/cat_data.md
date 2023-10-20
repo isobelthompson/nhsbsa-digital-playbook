@@ -59,8 +59,8 @@ NHS Light Blue
 |||---|||  
   
     
-![NHS Blue gradient](image-6.png)  ![NHS Aqua Green gradient](image-7.png)  ![NHS Pink gradient](image-8.png)  
-![NHS Orange gradient](image-9.png)  ![NHS Green gradient](image-10.png)  ![NHS Light Blue gradient](image-11.png)  
+![NHS Blue gradient](blue-grad.png)  ![NHS Aqua Green gradient](aqua-grad.png)  ![NHS Pink gradient](pink-grad.png)  
+![NHS Orange gradient](orange-grad.png)  ![NHS Green gradient](green-grad.png)  ![NHS Light Blue gradient](light-blue-grad.png)  
 
 Bear in mind that certain colours have certain meanings, and that use of colour is important.  
 Whilst over 4 categories and colours is not recommended, you will notice that after the first 6 colours, the colours are repeated at a 50% tint, still distinguishable to the user, and not adding in additional colours.  
@@ -103,7 +103,7 @@ If you are using red to signal 'warning' or 'caution', and green to signal 'appr
   
 Use additional encoding methods such as symbols or positions to convey meaning:  
 
-![Examples of symbols tat could be used alongside colour to convey meaning](image-12.png)  
+![Examples of symbols tat could be used alongside colour to convey meaning](symbols.png)  
   
 [Source][cat 8]
 

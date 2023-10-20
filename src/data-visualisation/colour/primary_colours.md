@@ -15,19 +15,19 @@ order:
 Use a plain background, NHS Grey 5 (#f0f4f5) should be used.  
 NHS White (#ffffff) is used to make important information stand out and for alternating backgrounds, for example on the NHS website home page.  
 
-![A block of the colour NHS White and the corresponding colour codes](image-1.png)   
+![A block of the colour NHS White and the corresponding colour codes](NHS-white.png)   
 [Source][pc 2]  
   
 
 ### Single variables  
 NHS Blue (#005EB8) is the primary colour to be used across our products.  
 
-![A block of the colour NHS Blue and the corresponding colour codes](image-2.png)  
+![A block of the colour NHS Blue and the corresponding colour codes](NHS-blue.png)  
 
 
 ### Two variables  
 NHS Blue (#005EB8) alongside NHS Light Blue (#41B6E6) is recommended for two variables.  
-![A block of the colour NHS Blue and the corresponding colour codes](image-3.png)     ![Ablock of the colour NHS Light Blue and the corresponding colour codes](image-4.png) 
+![A block of the colour NHS Blue and the corresponding colour codes](NHS-blue-2.png)     ![Ablock of the colour NHS Light Blue and the corresponding colour codes](NHS-light-blue.png) 
   
 
 ### Related variables  
@@ -44,7 +44,7 @@ Note: we only recommend outlining the bars when using tints of a palette, in gen
 [Sourc][pc 5]  
 
 For an indication of colour schemes and combinations using binary, qualitative, diverging and sequential data the diagram below is useful:  
-![Diagram showing how binary, qualitative, diverging and sequential data may be represented by example colour schemes and combinations](image-5.png)  
+![Diagram showing how binary, qualitative, diverging and sequential data may be represented by example colour schemes and combinations](colour-schemes.png)  
   
 [Source][pc 6]  
   

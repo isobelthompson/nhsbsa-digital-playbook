@@ -30,7 +30,7 @@ Contrast ratios should be checked to help with conditions such as low vision and
 [Source][colours 4] 
   
 Example A: Using colour to connect information. Note how ‘Services’ uses a dark blue in each chart, and Production is denoted by orange.  
-![5 charts including a pie chart, 2 bar charts and 2 line charts](image.png)  
+![5 charts including a pie chart, 2 bar charts and 2 line charts](charts.png)  
   
 [Source][colours 5]  
 
