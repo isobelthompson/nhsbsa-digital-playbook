@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "NHSBSA Layout of a Dashboard: Reporting"
-description: 
+description: "Overview of the report pages to include in NHSBSA reports"
 status: DRAFT
 tags:
 order:

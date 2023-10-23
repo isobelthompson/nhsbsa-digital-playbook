@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tooltips"
-description: 
+description: "Guidance for using tooltips at the NHSBSA"
 status: DRAFT
 tags:
 order:

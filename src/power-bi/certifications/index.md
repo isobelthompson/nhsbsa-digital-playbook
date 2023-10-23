@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Power Platforms Certifications"
-description: 
+description: "Links to Power Platform and Azure training"
 status: DRAFT
 tags:
 order:

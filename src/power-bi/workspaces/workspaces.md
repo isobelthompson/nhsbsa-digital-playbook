@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Workspaces"
-description: 
+description: "Overview of Power BI workspaces"
 status: DRAFT
 tags:
 order:

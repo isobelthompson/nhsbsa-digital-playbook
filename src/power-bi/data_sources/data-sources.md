@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Data Sources"
-description: 
+description: "Overview of data sources compatible with Power BI"
 status: DRAFT
 tags:
 order:

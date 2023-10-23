@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "User Hints"
-description: 
+description: "Summary of some user hints for Power BI"
 status: DRAFT
 tags:
 order:
