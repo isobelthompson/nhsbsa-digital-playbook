@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sequential Data"
-description: 
+description: "Colours used for sequential data at the NHSBSA"
 status: DRAFT
 tags:
 order:

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Data Accessibility"
-description: 
+description: "What is data accessibility?"
 status: DRAFT
 tags:
 order:

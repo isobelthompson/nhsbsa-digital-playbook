@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "NHSBSA Colour Guidance"
-description: 
+description: "Colour guidance overview for the NHSBSA"
 status: DRAFT
 tags:
 order:

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Categorical Data"
-description: 
+description: "Colours used for categorical data at the NHSBSA"
 status: DRAFT
 tags:
 order:

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Accessibility Statement"
-description: 
+description: "Accessibility at the NHSBSA"
 status: DRAFT
 tags:
 order:

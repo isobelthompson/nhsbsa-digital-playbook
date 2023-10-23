@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Designing for Accessibility"
-description: 
+description: "How do we design for accessibiliity at the NHSBSA?"
 status: DRAFT
 tags:
 order:
