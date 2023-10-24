@@ -8,6 +8,6 @@ order:
     power-bi: 3
     certifications: 2
     pl-certs: 1
+related:
+    tag: pl-certs
 ---
-
--- add links to the next level of pages

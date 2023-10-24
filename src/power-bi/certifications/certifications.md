@@ -8,7 +8,7 @@ order:
     power-bi: 2
     certifications: 1
 related:
-    tag: certifications
+    tag: [pl-certs, dp-certs]
 ---
 ## Power platforms certifications  
   

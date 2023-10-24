@@ -8,6 +8,6 @@ order:
     power-bi: 3
     certifications: 2
     dp-certs: 1
+related:
+    tag: dp-certs
 ---
-
--- add links to the next level of pages
