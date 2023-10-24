@@ -11,6 +11,11 @@ order:
 related:
     tag: pl-certs
 ---
-## [Microsoft Power Platform and Azure Certifications Excel Spreadsheet][link]
+## [Microsoft Power Platform and Azure Certifications Details][link]  
+  
+There are many Microsoft Power Platforms and Azure certifications available. Please look at the pages available or the attached spreadsheet for more details.  
+  
+If you have any questions please get in touch with [Helen O'Donnell (Data Visualisation Manager)][email address].
 
 [link]: https://nhsbsauk.sharepoint.com/:x:/s/DataWarehouse/EccsayGlP-JDqSFfWK5BpXIBp3Ghr3wxMrjHUOtHmKQfCw?e=l1fvBH
+[email address]: 
