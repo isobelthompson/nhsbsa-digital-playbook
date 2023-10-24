@@ -9,13 +9,3 @@ related:
     title: Data Visualisation Articles
     tag: data-viz
 ---
-
-[Accessibility](../data-visualisation/accessibility/a11y.md)  
-  
-[Colour](../data-visualisation/colour/colour.md)  
-  
-[Dashboard Layout](../data-visualisation/dashboard-layout/db-layout.md)  
-  
-[Filters](../data-visualisation/filters/filters.md)  
-  
-[Tooltips](../data-visualisation/tooltips/tooltips.md)
