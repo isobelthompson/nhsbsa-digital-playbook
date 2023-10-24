@@ -3,8 +3,10 @@ layout: page
 title: "Workspaces"
 description: "Overview of Power BI workspaces"
 status: DRAFT
-tags:
+tags: [power-bi, workspaces]
 order:
+    power-bi: 2
+    workspaces: 1
 ---
 The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the Data Visualisation Standards when producing Data Visualisation Products.  
   
