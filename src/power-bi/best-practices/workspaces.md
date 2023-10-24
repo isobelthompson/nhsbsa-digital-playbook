@@ -10,10 +10,15 @@ order:
 ---
 The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the Data Visualisation Standards when producing Data Visualisation Products.  
   
+## Workspaces  
 
-## Workspaces 
+This documentation contains Microsoft guidance alongside our organisational guidance to ensure we are following the necessary processes and keeping our data and reports secure.  
+  
+The intended audience of this document is developers or consumers of Power BI reports, of any skill level, who need access to Power BI reports, or the workspaces where those reports are published to, and who will need to understand the privilege levels involved in sharing access.  
+  
 A workspace is a central space (think alike a SharePoint folder), where a Power BI dashboard or report can be published to alongside the data.  
-   
+     
+
 ## Workspace types  
   
 There are two types of workspaces:  
@@ -36,8 +41,9 @@ Access to the data held within that workspace should be determined on the data i
   
 ## Workspace requests  
   
-To create a workspace, create a Service Request under the following categories:  
-![Screenshot showing how to configurethe Category, Sub-category and Item fields of a service desk request](categories.png)  
+To create a workspace, create a Service Request with the Category being ‘Microsoft Applications’, the Sub Category as ‘Power BI’ and the Item as ‘Access’.  
+  
+![Screenshot showing how to configure the Category, Sub-category and Item fields of a service desk request](categories.png)  
   
 The following details should be included:  
 -	The name of the workspace, this should be at a team level (please check with your team if one is currently set up before making a request)
@@ -62,7 +68,7 @@ There are 4 generic roles in workspaces:
 3. Contributor
 4. Viewer
 
-These roles determine the privileges available to users. Please refer to the Microsoft guidance on Workspace roles and relevant privileges: [Link][ws 3]  
+These roles determine the privileges available to users. Please refer to the [Microsoft guidance on Workspace roles and relevant privileges.][ws 3]  
   
 The level of access decreases from Admin to Viewer.  
   
@@ -87,7 +93,7 @@ Ownership of the content, relevance, and maintaining the content published to th
   
 ## Naming conventions  
   
-Alike the Content Design Standards for Domain names ([Link][ws 4]), a similar structure is followed in setting up a workspace.  
+Alike the [Content Design Standards for Domain names][ws 4], a similar structure is followed in setting up a workspace.  
   
 <u> Team level </u>  
 If your workspace is created for a team level, the team name of the development team should be used as the workspace title. For example, ‘Management Information Team’. If there is the likelihood of your team name being a duplicate across the organisation, this is to be prefixed by your directorate initials, for example ‘DDAT Management Information Team’.  

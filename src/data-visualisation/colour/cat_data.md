@@ -12,7 +12,7 @@ order:
   
 Categorical data can be divided into groups or categories by using names or labels.  
 Using four categories is best practice for data visualisation. More than four series can make a chart too cluttered. Consider merging multiple categories or focusing the chart on a single entity if suitable.  
-[Source][cat 1]  
+[Source - Categorical data colour palette][cat 1]  
   
 For categorical data, the following colours taken from the NHS identity guideleines can be used:  
 
@@ -66,17 +66,17 @@ NHS Light Blue
 
 Bear in mind that certain colours have certain meanings, and that use of colour is important.  
 Whilst over 4 categories and colours is not recommended, you will notice that after the first 6 colours, the colours are repeated at a 50% tint, still distinguishable to the user, and not adding in additional colours.  
-[Source][cat 2]  
+[Source - NHS Identity guidelines][cat 2]  
   
 
 We recommend using our suggested colour palette in the order given in the list to make sure adjacent colours have enough contrast. It will also mean the colours will work for different types of colour blindness and in greyscale.  
-[Source][cat 3] 
+[Source - Categorical data colour palette][cat 3] 
 
 
 ### Simple charts  
 
 Use a single colour for a single line chart, and all bars in vertical column charts and horizontal bar charts where there are no groups to highlight. NHS Blue (#005EB8) is the primary colour to be used across our products, and therefore the first colour in the palette.  
-[Source][cat 4]  
+[Source - Categorical data colour palette][cat 4]  
   
 ### Line charts  
   
@@ -88,14 +88,14 @@ Lines do not always stay in the same order. So, it is not possible to make sure 
 This means that it is not possible to provide a palette for line charts with more than two series that would meet the contrast ratio requirements. So, you should only use line charts with more than two series when they are essential to getting information across. This will help you meet accessibility success criterion 1.4.11.  
   
 Guidance, such as labelling lines, using textures or shapes for data points may work to distinguish multiple categories. You can see more advice within the source link.  
-[Source][cat 5]  
+[Source - Categorical data colour palette][cat 5]  
   
     
 ### Pie charts  
   
 Pie charts should use different shades of one colour where possible, rather than different colours. This is so a colour-blind user can easily distinguish between the segments with the colours being close together.  
-[Source][cat 6]   
-[Source][cat 7]   
+[Source - ][cat 6]   
+[Source - About Colour Blindness][cat 7]   
 
 
 ### RAG (Red/Amber/Green) status  
@@ -107,7 +107,7 @@ Use additional encoding methods such as symbols or positions to convey meaning:
 
 ![Examples of symbols tat could be used alongside colour to convey meaning](symbols.png)  
   
-[Source][cat 8]
+[Source - ][cat 8]
 
 ONS accessibility tested colours are:
 -	Green: #0f8243
@@ -116,7 +116,7 @@ ONS accessibility tested colours are:
 -	Jaffa orange: #fa6401
 -	Red: #d0021b  
   
-[Source][cat 9]  
+[Source - ONS Service manual][cat 9]  
 
 
 [Back to Colours home](../colour/colour.md) 

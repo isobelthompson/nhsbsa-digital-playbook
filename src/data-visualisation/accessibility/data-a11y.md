@@ -16,8 +16,8 @@ Conditions that specifically relate to data include:
 - Low data literacy  
   
 Therefore, we need to deliver services which convey numbers plainly and in a way that is easy for everyone to understand.  
-[Source][data 1]  
-[Source][data 2]
+[Source - Accessible Numbers][data 1]  
+[Source - Designing for people with dyscalculia and low numeracy][data 2]
 
   
 ## Best practice for data accessibility  
@@ -32,8 +32,8 @@ Our internal Content Design Standards state how we should be presenting data. So
 - put things into perspective using data visualisation principles
 - remove jargon, simplifying language
 - use a suitable font size:
-* The body of the text should be size 12px. [Source][data 3] 
-* 	Frutiger or Arial should be used as the font throughout the report. The core NHS font is Frutiger and the secondary font is Arial. [Source][data 4]  
+* The body of the text should be size 12px. [Source - Accessible print publications][data 3] 
+* Frutiger or Arial should be used as the font throughout the report. The core NHS font is Frutiger and the secondary font is Arial. [Source - NHS Identity guidelines][data 4]  
 - always follow the appropriate hierarchy of titles in a page, this helps users of a screen reader navigate content quickly and easily  
   
     

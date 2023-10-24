@@ -10,49 +10,49 @@ order:
 ---
 ## Designing for accessibility  
 
-The UK Home Office created Designing for accessibility posters. [Link][home office posters] 
+The UK Home Office created [Designing for accessibility posters.][home office posters] 
 
 The posters include Dos and Don’ts for individuals:  
 
-- On the autistic spectrum
-- Who use screen readers
-- With low vision
-- With dyslexia
-- With physical or motor disabilities
-- Who are d/Deaf or hard of hearing
-- With anxiety  
+- on the autistic spectrum
+- who use screen readers
+- with low vision
+- with dyslexia
+- with physical or motor disabilities
+- who are d/Deaf or hard of hearing
+- with anxiety  
   
 ## Content Design Standards on numbers  
 
 The following tips are the most relevant to data visualisation.  
 
 Numbers:  
-- use ‘one’ unless you’re talking about a step, a point in a list or another situation where using the numeral makes more sense 
-- write all other numbers in numerals, including 2 to 9, except where it’s part of a common expression like ‘one or two of them’ 
-- insert a comma to add clarity for values over 1,000, for example, 9,000
-- use spacing between area and exchange codes for telephone numbers, for example, 0191 123 4567  
+- Use ‘one’ unless you’re talking about a step, a point in a list or another situation where using the numeral makes more sense 
+- Write all other numbers in numerals, including 2 to 9, except where it’s part of a common expression like ‘one or two of them’ 
+- Insert a comma to add clarity for values over 1,000, for example, 9,000
+- Use spacing between area and exchange codes for telephone numbers, for example, 0191 123 4567  
 
 Money:
-- use the ‘£’ symbol  
-- do not use decimals unless pence are included, for example, '£75.50' but not '£75.00' 
-- separate large amounts of money using commas, for example, '£10,000' not '£10000' 
-- for amounts in millions or billions, format as '£X million' or '£X billion', not written in full 
-- do not use '£0.XX millions' for amounts less than £1 million  
+- Use the ‘£’ symbol  
+- Do not use decimals unless pence are included, for example, '£75.50' but not '£75.00' 
+- Separate large amounts of money using commas, for example, '£10,000' not '£10000' 
+- For amounts in millions or billions, format as '£X million' or '£X billion', not written in full 
+- Do not use '£0.XX millions' for amounts less than £1 million  
 
-[Source][numbers 1]
+[Source - Content Design Team ][numbers 1]
 
 
 ## Accessibility of colours  
-Please refer to the Colour guidance document for guidance on accessible colour use, palettes and appropriate contrasts to use.  
-[Colour Guidance Document][colour guide]
+Please refer to the [Colour Guidance document][colour guide] for standards on accessible colour use, palettes and appropriate contrasts to use.  
+
 
 For colour contrast; ensure there is enough of a contrast between the colours used. The Web Content Accessibility Guidelines (WCAG) which the UK accessibility legislation aligns to, require a 3 to 1 ratio for graphical elements and 4.5 to 1 ratio for text.  
-The WebAIM colour contrast checker may help: [WebAIM Colour Contrast Checker 1][webaim 1] or [WebAIM Colour Contrast Checker 2][webaim 2]  
+The WebAIM colour contrast checker may help: [WebAIM Colour Contrast Checker Link 1][webaim 1] or [WebAIM Colour Contrast Checker Link 2][webaim 2]  
 
   
 It is important to remember that you must not use colour as the only way to communicate something. Patterns can be used, but they can be cluttering and harder to see. It is always recommended to have an alternative way to gain the same information, for example, by having figures available to the user.  
   
-[Source][use of colour]
+[Source - WCAG 2.1 Use of Colour][use of colour]
 
 
 
