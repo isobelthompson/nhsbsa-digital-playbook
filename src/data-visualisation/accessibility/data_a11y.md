@@ -34,7 +34,10 @@ Our internal Content Design Standards state how we should be presenting data. So
 - use a suitable font size:
 * The body of the text should be size 12px. [Source][data 3] 
 * 	Frutiger or Arial should be used as the font throughout the report. The core NHS font is Frutiger and the secondary font is Arial. [Source][data 4]  
-- always follow the appropriate hierarchy of titles in a page, this helps users of a screen reader navigate content quickly and easily
+- always follow the appropriate hierarchy of titles in a page, this helps users of a screen reader navigate content quickly and easily  
+  
+    
+[Back to Accessibility home](../accessibility/a11y.md)
 
 
 
