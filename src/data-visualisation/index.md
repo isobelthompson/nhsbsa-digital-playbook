@@ -10,4 +10,4 @@ related:
     tag: data-viz
 ---
 
-[Accessibility](../a11y)
+[Accessibility](../data-visualisation/accessibility/a11y)
