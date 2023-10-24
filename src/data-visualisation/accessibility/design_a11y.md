@@ -3,10 +3,10 @@ layout: page
 title: "Designing for Accessibility"
 description: "How do we design for accessibiliity at the NHSBSA?"
 status: DRAFT
-tags: [data-viz, a11y]
+tags: [data-viz, data-viz-a11y]
 order:
     data-viz: 2
-    a11y: 3
+    data-viz-a11y: 3
 ---
 ## Designing for accessibility  
 
@@ -83,7 +83,10 @@ There is a checklist to follow online which the Government Analysis Function cre
 The following links will also be useful:  
 - [Making spreadsheets accessible: a checklist of the basics – Government Analysis Function][gov 1]
 - [Releasing Statistics in Spreadsheets][gov 2] 
-- [Make your Excel documents accessible to people with disabilities - Microsoft Support][microsoft]
+- [Make your Excel documents accessible to people with disabilities - Microsoft Support][microsoft]  
+  
+    
+[Back to Accessibility home](../accessibility/a11y.md)
 
 
 

@@ -3,10 +3,10 @@ layout: page
 title: "Data Sources"
 description: "Overview of data sources compatible with Power BI"
 status: DRAFT
-tags: [power-bi, data-sources]
+tags: [power-bi, pbi-data-sources]
 order:
     power-bi: 2
-    data-sources: 1
+    pbi-data-sources: 1
 ---
 The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the Data Visualisation Standards when producing Data Visualisation Products.  
   
@@ -31,10 +31,9 @@ Direct Lake mode eliminates the import requirement by loading the data directly 
 
 Direct Lake Mode can pull directly from the system and caches the data, which means this is faster (alike Import mode), but also has regular data refreshes (if required). Currently Direct Lake mode is not available, but this is an area we will be looking into. Trusted datasets within the DataLake will be endorsed by the Data Platforms teams, this marks a dataset as recommended to use.  
 
-Currently, to connect Power BI to the Data Warehouse, this would need to be done through the AVDs (Azure Virtual Desktops), which the Data Platforms Team manage access to.  
+Currently, to connect Power BI to the Data Warehouse, this would need to be done through the AVDs (Azure Virtual Desktops), which the [Data Platforms Team][DPT] manage access to.  
 
 [Source][source 2]
-[Link to Data Platforms Team][DPT]  
 
 
 

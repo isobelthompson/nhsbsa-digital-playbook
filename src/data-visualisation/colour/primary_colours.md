@@ -3,7 +3,7 @@ layout: page
 title: "Primary Colours"
 description: "Overview of the main colours that should be used at the NHSBSA"
 status: DRAFT
-tags: [data-viz, colour]
+tags: [data-viz, data-viz-colour]
 order: 2
 ---
 ## Primary colours  
@@ -47,6 +47,9 @@ For an indication of colour schemes and combinations using binary, qualitative, 
 ![Diagram showing how binary, qualitative, diverging and sequential data may be represented by example colour schemes and combinations](colour-schemes.png)  
   
 [Source][pc 6]  
+
+
+[Back to Colours home](../colour/colour.md)  
   
   
 

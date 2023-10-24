@@ -3,7 +3,7 @@ layout: page
 title: "NHSBSA Layout of a Dashboard: Information"
 description: "Overview of the information pages to include in NHSBSA reports"
 status: DRAFT
-tags: [data-viz, db-layout]
+tags: [data-viz, data-viz-layout]
 order: 2
 ---
 ## Information pages  
@@ -18,13 +18,13 @@ Benefits of information pages include:
 -	A standardised and reliable approach across dashboards, enabling a user’s ease-of-use.  
   
 The information pages are designed to compliment the reporting pages, with an initial Dashboard information page, followed by the reporting pages, and with any other complimentary dashboard information pages at the end of the report for consultation by the user if needed. The pages created in the wireframe are:  
--	Info: Dashboard information – page 1
--	Summary/highlights – page 2
--	Insight 1 – page 3
--	Insight 2 – page 4
--	Info: Data Details – page 5
--	Info: Updates – page 6
--	Info: How to use – page 7  
+-	Info: Dashboard information
+-	Summary/highlights
+-	Insight 1
+-	Insight 2
+-	Info: Data Details
+-	Info: Updates
+-	Info: How to use 
   
 The wireframe was created in Power BI, although the features can be recreated in alternative data visualisation tools.  
 The content of the dashboard should be automated wherever possible to minimise manual intervention.  
@@ -38,7 +38,7 @@ The information pages have the following features present across each page:
 -	The Report/Dashboard Title and name of the page, alongside the reporting month and year.
 -	A quick links section on the left-hand side of the page is optional. This panel is designed not to duplicate a list of all pages, but to highlight key pages the user may be interested in.
 -	Information in the main body of the page.
--	A footer to state who created the dashboard, and a link to the accessibility statement.
+-	A footer to state who created the dashboard, and a link to the accessibility statement: [Accessibility Statement][info 0]
 -	The background is NHS Grey 5 (#f0f4f5). Please see the colour guidance for more details.  
   
   
@@ -52,16 +52,16 @@ Some important notes in relation to your text content:
 -	Frutiger or Arial should be used as the font throughout the report. The core NHS font is Frutiger and the secondary font is Arial. [Source][info 3]  
 
 This is a basic example of one of the pages:  
-![Example dashboard information page](info-page.png)  
+![Example dashboard information page including a New section and release notes](info-page.png)
   
-An example of how the dashboard guidelines might look in a report:  
-![Example report page following dashboard guidelines](info-page-2.png)  
+An example of how the dashboard standards might look in a report:  
+![Example report page following dashboard standards including header and filter layout, KPI cards and charts](info-page-2.png)  
   
 Please note, if there was an urgent update for users to be aware of, a banner spanning the top of the dashboard such as the below should be used.  
 ![Banner across the top of a dashboard, with an update message](update.png)  
   
   
-### Dashboard information - page 1  
+### Dashboard information example page 
   
 The Dashboard Information page has been designed as an introduction to the dashboard, to allow the users to check the reporting period and refreshed date of the data. It clearly states the purpose of the dashboard to the user to give context.  
 It also benefits the perceived performance of the dashboard being the initial page a user is directed to as charts and data can load on other pages whilst the user checks the details shown.  
@@ -80,7 +80,7 @@ It includes:
 ![Dashboard page 1 example](page-1-eg.png)  
   
     
-### Data details - page 5  
+### Data details example page 
   
 The Data Details page has been designed to inform the user further on the details of the data, enabling data literacy and aiding understanding and therefore use of the report.  
   
@@ -91,10 +91,10 @@ It includes:
 -	Data Dictionary details, and a link so that users can see definitions of the data and formats. This helps users to see the data lineage and understand the metadata behind the reports.
 -	Glossary details around the terminology used, and a link so that users can access and understand relevant terminology included in the report.  
   
-![Dashboard page 5 example](page-5-eg.png)  
+![Data details page example](page-5-eg.png)  
   
   
-### Updates - page 6  
+### Updates example page 
   
 The Updates page is designed to help inform users on relevant news, release updates, and any other ongoing updates beneficial to the user.
 It includes:  
@@ -103,19 +103,21 @@ It includes:
 -	Release notes relating to the dashboard version numbers so that users are informed of new features, improvements, or bug fixes. 
 -	Announcements could be included in this section, for example if the NHSBSA has been made aware of an issue, and a fix is working to be put in place.  
   
-![Dashboard page 6 example](page-6-eg.png)  
+![Updates page example](page-6-eg.png)  
   
     
-### How to use - page 7  
+### How to use example page  
   
-The How to use page is relevant especially for users who have limited technological literacy and may not be as familiar with the reporting software used. It aims to help guide users, limit support needed, maximise usage and optimise intake of the dashboard and information shown.  
+The How to use page is relevant especially for users who have limited technological literacy and may not be as familiar with the reporting software used. It aims to help guide users, limit support needed, maximise usage and optimise intake of the dashboard and information shown. Please see the Power BI User Hints standards as an example of information to include on a How to use page: [Link to User Hints Standards](link to user hints page)  
   
 It includes:  
 -	Dashboard functionality to give details on functions within the dashboard, for example, users may not be familiar with drill down functionality and how to access it, therefore might miss this feature and other insights if not prompted to look and use this function.
 -	Links to relevant articles or training courses could be useful, for example, NHSBSA training courses sign up or Microsoft could be referenced for Power BI reports.
 -	Accessibility hints could be included in this section, for example, how to change from a chart format to a table.  
   
-![Dashboard page 7 example](page-7-eg.png)
+![How to use page example](page-7-eg.png)  
+  
+    
 
 
 
@@ -125,6 +127,7 @@ It includes:
 
 
 
+[info 0]: https://bsa2468.atlassian.net/wiki/spaces/CoP/pages/1559396709/STAGE+3+-+Accessibility+Statements
 [info 1]: https://nhsbsauk.sharepoint.com/sites/digital-and-online-team/SitePages/Content-Design-Style-Guide.aspx
 [info 2]: https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats#accessible-print-publications
 [info 3]:  https://www.england.nhs.uk/nhsidentity/identity-guidelines/fonts/

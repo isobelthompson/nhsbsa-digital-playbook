@@ -3,10 +3,10 @@ layout: page
 title: "Categorical Data"
 description: "Colours used for categorical data at the NHSBSA"
 status: DRAFT
-tags: [data-viz, colour]
+tags: [data-viz, data-viz-colour]
 order:
     data-viz: 2
-    colour: 3
+    data-viz-colour: 3
 ---
 ## Categorical Data  
   
@@ -116,7 +116,10 @@ ONS accessibility tested colours are:
 -	Jaffa orange: #fa6401
 -	Red: #d0021b  
   
-[Source][cat 9] 
+[Source][cat 9]  
+
+
+[Back to Colours home](../colour/colour.md) 
 
 
 

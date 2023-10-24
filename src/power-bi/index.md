@@ -1,19 +1,25 @@
 ---
 layout: article
-title: "Power BI Guidance"
-description: "Guidance for using Power BI at the NHSBSA"
+title: "Power BI Standards"
+description: "Standards for using Power BI at the NHSBSA"
 status: DRAFT
 tags: [home, power-bi, data-viz]
 order: 1
 related:
-    title: Power BI Articles
+    title: Power BI Standards
     tag: power-bi
 ---
 
-[Certifications](../power-bi/certifications/certifications.md)  
+The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the Data Visualisation Standards when producing Data Visualisation Products. 
+
+1. best practices
+2. standards
+3. learning
+
+[Certifications](../power-bi/learning/certifications.md)  
   
-[Data Sources](../power-bi/data_sources/data-sources.md)  
+[Data Sources](../power-bi/best-practices/data-sources.md)  
   
-[User Hints](../power-bi/user_hints/user-hints.md)  
+[User Hints](../power-bi/standards/user-hints.md)  
   
-[Workspaces](../power-bi/workspaces/workspaces.md)
+[Workspaces](../power-bi/best-practices/workspaces.md)

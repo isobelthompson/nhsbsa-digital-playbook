@@ -3,7 +3,7 @@ layout: page
 title: "Data Accessibility"
 description: "What is data accessibility?"
 status: DRAFT
-tags: [data-viz, a11y]
+tags: [data-viz, data-viz-a11y]
 order: 2 
 ---
 ## What is data accessibility?  

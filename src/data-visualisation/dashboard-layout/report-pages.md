@@ -3,7 +3,7 @@ layout: page
 title: "NHSBSA Layout of a Dashboard: Reporting"
 description: "Overview of the report pages to include in NHSBSA reports"
 status: DRAFT
-tags: [data-viz, db-layout]
+tags: [data-viz, data-viz-layout]
 order:
     data-viz: 2
     db-layout: 3
@@ -21,7 +21,7 @@ Features of the reporting pages include:
 -	A separation line has been included to clearly define sections.  
   
     
-### Summary/highlights - page 2  
+### Summary/highlights example page  
   
 The summary/highlights page should be a straightforward summary page which informs the user of key insights and important insights to note.  
   
@@ -31,18 +31,18 @@ The example template includes the following:
 -	Charts should help give further information to the summary statistics shown.
 -	In the top right-hand corner there is a nudge to look further into the details of the data, helping to guide the user on their journey.  
   
-![Dashboard page 2 example](page-2-eg.png)  
+![Summary/highlights page example](page-2-eg.png)  
   
     
-### Insight 1 - page 3  
+### Insight Example page 1  
   
 This potential layout includes an automated narrative section to help draw out key aspects to the user, and help tell a story of the data. In addition, if actions can be automatically generated for the user this would help maximise the meaningful insights and decisions generated as a result of the report.  
   
-![Dashboard page 3 example](page-3-eg.png)  
+![Insight page 1 example](page-3-eg.png)  
   
   
-### Inisght 2 - page 4  
+### Insight example page 2  
   
 This potential layout includes an insight generator to help encourage the user to ask questions, interrogate and explore the data further.  
   
-![Dashboard page 4 example](page-4-eg.png)
+![Insight page 2 example](page-4-eg.png)

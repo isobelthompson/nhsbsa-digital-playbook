@@ -3,10 +3,10 @@ layout: page
 title: "Sequential Data"
 description: "Colours used for sequential data at the NHSBSA"
 status: DRAFT
-tags: [data-viz, colour]
+tags: [data-viz, data-viz-colour]
 order:
     data-viz: 2
-    colour: 4
+    data-viz-colour: 4
 ---
 ## Sequential data  
   
@@ -19,6 +19,9 @@ Sequential data should use NHS Blue (#005EB8) as our primary colour to be used. 
 [Source][seq 1]  
   
 Due to the problems with contrast ratios in this palette, there is specific advice for different chart types: [Advice Link][seq 2]  
+
+
+[Back to Colours home](../colour/colour.md)  
   
   
 [seq 1]: https://style.ons.gov.uk/data-visualisation/using-colours/using-colour-in-line-charts/

@@ -3,10 +3,10 @@ layout: page
 title: "User Hints"
 description: "Summary of some user hints for Power BI"
 status: DRAFT
-tags: [power-bi, user-hints]
+tags: [power-bi, pbi-user-hints]
 order:
     power-bi: 2
-    user-hints: 1
+    pbi-user-hints: 1
 ---
 The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the Data Visualisation Standards when producing Data Visualisation Products.  
     

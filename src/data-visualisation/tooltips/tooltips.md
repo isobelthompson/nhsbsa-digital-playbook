@@ -1,22 +1,23 @@
 ---
 layout: page
 title: "Tooltips"
-description: "Guidance for using tooltips at the NHSBSA"
+description: "Standards for using tooltips at the NHSBSA"
 status: DRAFT
-tags: [data-viz, tooltips]
+tags: [data-viz, data-viz-tooltips]
 order:
     data-viz: 2
-    tooltips: 1
+    data-viz-tooltips: 1
 ---
 ## What is a tooltip?  
   
-Definition: A tooltip is a brief, informative message that appears when a user interacts with an element in a graphical user interface (GUI). Tooltips are usually initiated in one of two ways: through a mouse-hover gesture or through a keyboard-hover gesture.  
+Definition: A tooltip is a brief, informative message that appears when a user interacts with an element in a graphical user interface (GUI).  
+Tooltips are usually initiated in one of two ways: through a mouse-hover gesture or through a keyboard-hover gesture.  
   
 Please note, data visualisations may have bespoke tooltips in which the developer has customised or amended the default tooltip, this customised tooltip could show as a different structure of detail, or as a visualisation itself.  
   
 ## Use of Tooltips  
   
-As developers we recommend staying away from using tooltips as they are not always best for accessibility purposes:  
+As developers we recommend staying away from using tooltips as they are not always best for accessibility purposes as:  
 -	screen readers sometimes have difficulty reading the information
 -	they can be hard to spot
 -	they can obscure the screen
@@ -36,7 +37,7 @@ The situation of when to use a tooltip needs to be considered:
 -	Use tooltip arrows when multiple elements are nearby. Arrows are beneficial to clearly identify to which element the tooltip is associated. When there are several nearby elements, these arrows help avoid confusion.
 -	Provide tooltips for unlabelled icons.  
   
-Please note, the following three guidelines are especially important for data visualisation purposes.  
+Please note, the following three standards are especially important for data visualisation purposes.  
 -	Use tooltips consistently throughout your site. Consistency in the design, in the presence (for example, for all icons rather than a few), and in the content included is important. For example, in multiple charts with custom tooltips to display base sizes and percentages, ensure the format of your tooltip content is consistent.
 -	Placement: position tooltips so they don’t block related content. Often tooltips have automated placements in-built, in which the BI software used will automatically place the tooltip in the most appropriate place. Tooltips must be placed close to the content it is adding additional details to. 
 -	Contrasting colours: ensure tooltips have moderate contrast against the background.  

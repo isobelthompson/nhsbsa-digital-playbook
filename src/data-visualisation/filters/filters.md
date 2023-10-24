@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Filter Guidance"
-description: "Guidance for using filters at the NHSBSA"
+title: "Filter Standards"
+description: "Standards for using filters at the NHSBSA"
 status: DRAFT
-tags: [data-viz, filters]
+tags: [data-viz, data-viz-filters]
 order:
     data-viz: 2
-    filters: 1
+    data-viz-filters: 1
 ---
 ## Filter purpose  
   
@@ -14,7 +14,7 @@ Filters should only be used when needed and to add to the value of a dashboard. 
 If there are more than three filters on a dashboard this can take away the value and visual impact of the message and distract a user.  
   
 Features such as parameters can be created and used to change variables used within a chart. An example is below:  
-![Screenshot of a Provider Assurance Report Summary, showing the Contact type set to Email](slicers.png)  
+![Screenshot of a Provider Assurance Report Summary, showing the Contact filter](slicers.png)  
   
 To ensure data literacy in our end users, and developers, any filters applied should always be clearly stated on the dashboard or report. For example, on Oracle Analytics Classic a disclaimer may be added onto the dashboard:  
 ![Screenshot of an Oracle Analytics Classic results page showing the filter that has been applied](OAC-filter.png)  
@@ -27,7 +27,7 @@ Icons can be used to hide filters if needed, if an icon is used the purpose of t
 
 Global filters should be prioritised and included at the top left of a dashboard, or first in a filter section, with more specific filters following below. Specific filters relating to a singular chart should be placed close to the chart in the right-hand side top corner opposite the title of the chart, aligned with the visualisation itself.
 An example of filters placed on the top left of a dashboard:  
- ![Screenshot of a dashboard showing the filter optinos placed in the upper left](report.png)  
+ ![Screenshot of a dashboard showing the filter options placed in the upper left](report.png)  
 
 Within some data visualisation tools filter panels can be included which may use less resource within your report. However, with a standard in-built filter you cannot customise the pane.  
   

@@ -1,11 +1,11 @@
 ---
 layout: article
-title: "Data Visualisation"
-description: "Data Visualisation guidelines at the NHSBSA"
+title: "Data Visualisation Standards"
+description: "Data Visualisation standards at the NHSBSA"
 status: DRAFT
 tags: [home, data-viz]
 order: 1
 related:
-    title: Data Visualisation Articles
+    title: Data Visualisation Standards
     tag: data-viz
 ---
