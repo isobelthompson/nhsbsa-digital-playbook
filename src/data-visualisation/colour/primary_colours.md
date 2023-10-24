@@ -3,8 +3,8 @@ layout: page
 title: "Primary Colours"
 description: "Overview of the main colours that should be used at the NHSBSA"
 status: DRAFT
-tags:
-order:
+tags: [data-viz, colour]
+order: 2
 ---
 ## Primary colours  
 

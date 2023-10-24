@@ -4,7 +4,9 @@ title: "NHSBSA Colour Guidance"
 description: "Colour guidance overview for the NHSBSA"
 status: DRAFT
 tags:
-order:
+order: [data-viz, colour]
+    data-viz: 2
+    colour: 1
 ---
 ## NHS Colour Palette  
   

@@ -3,8 +3,10 @@ layout: page
 title: "Designing for Accessibility"
 description: "How do we design for accessibiliity at the NHSBSA?"
 status: DRAFT
-tags:
+tags: [data-viz, a11y]
 order:
+    data-viz: 2
+    a11y: 3
 ---
 ## Designing for accessibility  
 

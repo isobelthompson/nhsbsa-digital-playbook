@@ -3,8 +3,10 @@ layout: page
 title: "Accessibility Testing"
 description: "How do we test for accessibility at the NHSBSA?"
 status: DRAFT
-tags:
+tags: [data-viz, a11y]
 order:
+    data-viz: 2
+    a11y: 4
 ---
 ## Accessibility testing  
 

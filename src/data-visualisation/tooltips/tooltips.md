@@ -3,8 +3,10 @@ layout: page
 title: "Tooltips"
 description: "Guidance for using tooltips at the NHSBSA"
 status: DRAFT
-tags:
+tags: [data-viz, tooltips]
 order:
+    data-viz: 2
+    tooltips: 1
 ---
 ## What is a tooltip?  
   

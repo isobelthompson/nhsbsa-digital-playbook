@@ -3,8 +3,10 @@ layout: page
 title: "Categorical Data"
 description: "Colours used for categorical data at the NHSBSA"
 status: DRAFT
-tags:
+tags: [data-viz, colour]
 order:
+    data-viz: 2
+    colour: 3
 ---
 ## Categorical Data  
   

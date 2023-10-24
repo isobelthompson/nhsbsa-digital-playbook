@@ -3,8 +3,10 @@ layout: page
 title: "Filter Guidance"
 description: "Guidance for using filters at the NHSBSA"
 status: DRAFT
-tags:
+tags: [data-viz, filters]
 order:
+    data-viz: 2
+    filters: 1
 ---
 ## Filter purpose  
   

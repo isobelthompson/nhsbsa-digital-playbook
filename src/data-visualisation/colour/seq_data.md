@@ -3,8 +3,10 @@ layout: page
 title: "Sequential Data"
 description: "Colours used for sequential data at the NHSBSA"
 status: DRAFT
-tags:
+tags: [data-viz, colour]
 order:
+    data-viz: 2
+    colour: 4
 ---
 ## Sequential data  
   
