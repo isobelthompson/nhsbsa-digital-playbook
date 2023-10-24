@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "User Hints"
-description: "Summary of some user hints for Power BI"
+description: "An example of user hints and tips available for end users using Power BI"
 status: DRAFT
 tags: [power-bi, pbi-user-hints]
 order:
@@ -57,6 +57,7 @@ Microsoft guidance for drill downs - [Link][hint 3]
 ## Tooltips  
   
 A tooltip is a box that appears when hovered over to provide the user with more information. To use a tooltip, hover over data visualisations. Please note, these visualisations may have bespoke tooltips in which the developer has customised or amended the default tooltip, this customised tooltip could show as a different structure of detail, or as a visualisation itself.  
+[link to tooltips page]
   
   
 ## Switching between visualisation types  

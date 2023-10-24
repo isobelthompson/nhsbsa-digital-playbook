@@ -10,6 +10,7 @@ order:
 ---
 The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the Data Visualisation Standards when producing Data Visualisation Products.  
   
+  
 ## Workspaces  
 
 This documentation contains Microsoft guidance alongside our organisational guidance to ensure we are following the necessary processes and keeping our data and reports secure.  
@@ -95,21 +96,21 @@ Ownership of the content, relevance, and maintaining the content published to th
   
 Alike the [Content Design Standards for Domain names][ws 4], a similar structure is followed in setting up a workspace.  
   
-<ins> Team level </ins> 
+<ins> Team level </ins>  
 If your workspace is created for a team level, the team name of the development team should be used as the workspace title. For example, ‘Management Information Team’. If there is the likelihood of your team name being a duplicate across the organisation, this is to be prefixed by your directorate initials, for example ‘DDAT Management Information Team’.  
   
 The directorates and initials are as follows:  
-Digital, Data and Technology - DDaT  
-Finance, Commercial and Estates - FCE  
-Leadership Team	- LT  
-Operations - OPS  
-People and Corporate Services - PaCS  
-Portfolio Management - PM  
-Primary Care Services - PCS  
-Strategy, Performance, Business Development and Growth - SPBDG  
-Workforce Transformation - WT  
+    Digital, Data and Technology - DDaT  
+    Finance, Commercial and Estates - FCE  
+    Leadership Team	- LT  
+    Operations - OPS  
+    People and Corporate Services - PaCS  
+    Portfolio Management - PM  
+    Primary Care Services - PCS  
+    Strategy, Performance, Business Development and Growth - SPBDG  
+    Workforce Transformation - WT  
   
-<ins> Product level </ins>
+<ins> Product level </ins>  
 If your workspace’s primary purpose is delivering a product, and Development, Testing and Production workspaces are being used for your team, the domain name should be prefixed with DEV, TEST or PROD respectively. The name of the product will then follow, for example, ‘TEST eDen’ or ‘PROD NHS Jobs’.
 
 

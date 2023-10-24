@@ -11,3 +11,6 @@ order:
 related:
     tag: pl-certs
 ---
+## [Microsoft Power Platform and Azure Certifications Excel Spreadsheet][link]
+
+[link]: https://nhsbsauk.sharepoint.com/:x:/s/DataWarehouse/EccsayGlP-JDqSFfWK5BpXIBp3Ghr3wxMrjHUOtHmKQfCw?e=l1fvBH
