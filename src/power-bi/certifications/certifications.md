@@ -7,6 +7,8 @@ tags: [power-bi, certifications]
 order:
     power-bi: 2
     certifications: 1
+related:
+    tag: certifications
 ---
 ## Power platforms certifications  
   

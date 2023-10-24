@@ -7,6 +7,8 @@ tags:
 order: [data-viz, colour]
     data-viz: 2
     colour: 1
+related:
+    tag: colour
 ---
 ## NHS Colour Palette  
   

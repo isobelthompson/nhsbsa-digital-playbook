@@ -7,4 +7,6 @@ tags: [data-viz, db-layout]
 order:
     data-viz: 2
     db-layout: 1
+related:
+    tag: db-layout
 ---
