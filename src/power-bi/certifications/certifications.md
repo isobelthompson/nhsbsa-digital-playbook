@@ -3,8 +3,10 @@ layout: page
 title: "Power Platforms Certifications"
 description: "Links to Power Platform and Azure training"
 status: DRAFT
-tags:
+tags: [power-bi, certifications]
 order:
+    power-bi: 2
+    certifications: 1
 ---
 ## Power platforms certifications  
   
