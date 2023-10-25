@@ -46,7 +46,7 @@ Please refer to the [Colour Guidance document][colour guide] for standards on ac
 
 
 For colour contrast; ensure there is enough of a contrast between the colours used. The Web Content Accessibility Guidelines (WCAG) which the UK accessibility legislation aligns to, require a 3 to 1 ratio for graphical elements and 4.5 to 1 ratio for text.  
-The WebAIM colour contrast checker may help: [WebAIM Colour Contrast Checker Link 1][webaim 1] or [WebAIM Colour Contrast Checker Link 2][webaim 2]  
+The [WebAIM Colour Contrast Checker][webaim 1] may help, or [this Colour Contrast Checker][webaim 2].  
 
   
 It is important to remember that you must not use colour as the only way to communicate something. Patterns can be used, but they can be cluttering and harder to see. It is always recommended to have an alternative way to gain the same information, for example, by having figures available to the user.  

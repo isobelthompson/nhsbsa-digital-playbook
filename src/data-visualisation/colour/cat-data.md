@@ -65,7 +65,7 @@ Guidance, such as labelling lines, using textures or shapes for data points may 
 ### Pie charts  
   
 Pie charts should use different shades of one colour where possible, rather than different colours. This is so a colour-blind user can easily distinguish between the segments with the colours being close together.  
-[Source - ][cat 6]   
+[Source - Data visualisation: Colours][cat 6]   
 [Source - About Colour Blindness][cat 7]   
 
 
@@ -76,7 +76,7 @@ If you are using red to signal 'warning' or 'caution', and green to signal 'appr
   
 Use additional encoding methods such as symbols or positions to convey meaning:  
 
-![Examples of symbols tat could be used alongside colour to convey meaning](symbols.png)  
+![Examples of symbols that could be used alongside colour to convey meaning](symbols.png)  
   
 [Source - ][cat 8]
 
@@ -100,7 +100,7 @@ ONS accessibility tested colours are:
 [cat 3]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/#section-5
 [cat 4]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/#section-5
 [cat 5]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/#section-5
-[cat 6]: https://style.ons.gov.uk/data-visualisation/using-colours/using-colour-in-pie-charts/
+[cat 6]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/
 [cat 7]: https://www.colourblindawareness.org/colour-blindness/
-[cat 8]: https://style.ons.gov.uk/category/data-visualisation/using-colours/#using-red-and-green
+[cat 8]: 
 [cat 9]: https://service-manual.ons.gov.uk/design-system/foundations/colours

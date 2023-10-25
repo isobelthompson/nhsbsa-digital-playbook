@@ -47,10 +47,10 @@ To create a workspace, create a Service Request with the Category being ‘Micro
 ![Screenshot showing how to configure the Category, Sub-category and Item fields of a service desk request](categories.png)  
   
 The following details should be included:  
-- The name of the workspace, this should be at a team level (please check with your team if one is currently set up before making a request)
-- The purpose of the workspace, for example: ‘a workspace to house reports for the MI team , holding 'ABC' data types including sensitive data, with the customers being x/y/z’
-- Any relevant contact details, such as the central team’s contact email address
-- The Member and Contributor users of your workspace. These users will need Power BI Pro licences and will consist of the team members who will be publishing to the workspace. For example, developers should have workspace Member or Contributor rights, however viewers of your report should not. For workspace roles please consult the Microsoft Learn page on [Roles in workspaces in Power BI.][ws 2]  
+- The name of the workspace, this should be at a team level (please check with your team if one is currently set up before making a request).
+- The purpose of the workspace, for example: ‘a workspace to house reports for the MI team , holding 'ABC' data types including sensitive data, with the customers being x/y/z’.
+- Any relevant contact details, such as the central team’s contact email address.
+- The Member and Contributor users of your workspace. These users will need Power BI Pro licences and will consist of the team members who will be publishing to the workspace. For example, developers should have workspace Member or Contributor rights, however viewers of your report should not. For workspace roles please consult the Microsoft Learn page on [Roles in workspaces in Power BI.][ws 2].  
   
 Once this Service Request is created, the Infrastructure, or Data Platforms Operations team will pick this request up, and save a description of the workspace with the Service Request number and details provided attached.  
   
