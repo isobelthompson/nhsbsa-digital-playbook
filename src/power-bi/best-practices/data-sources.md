@@ -23,7 +23,7 @@ DirectQuery in Power BI offers the greatest benefits in the following scenarios:
 -	Data sovereignty restrictions apply.
 -	The source is a multidimensional source containing measures, such as SAP BW.  
   
-[Source][source 1]  
+[Source - Microsoft learn; DirectQuery use cases][source 1]  
 
 With import mode, performance can be better because the data is cached and optimized for business-intelligence queries without having to query the data source for each DAX query submitted by a report. However, the Power BI engine must first copy the data into the dataset during refresh. Any changes at the source are only picked up with the next dataset refresh.  
 
@@ -33,14 +33,13 @@ Direct Lake Mode can pull directly from the system and caches the data, which me
 
 Currently, to connect Power BI to the Data Warehouse, this would need to be done through the AVDs (Azure Virtual Desktops), which the [Data Platforms Team][DPT] manage access to.  
 
-[Source][source 2]
+[Source - Microsoft learn; Direct Lake][source 2]
 
 
 
 ## Scheduling refreshes  
 
-DirectQuery and Direct Lake Mode read straight from the system meaning refreshes of your data do not need to be scheduled. If you are reading your data through import mode you may wish to automatically schedule a refresh (otherwise, you can refresh your data as and when needed).  
-[Link to page explaining how to schedule a refresh][source 3]  
+DirectQuery and Direct Lake Mode read straight from the system meaning refreshes of your data do not need to be scheduled. If you are reading your data through import mode you may wish to automatically schedule a refresh (otherwise, you can refresh your data as and when needed). The [Microsoft Learn page 'Configure scheduled refresh'][source 3] gives more information.  
   
 Alternatively, tools such as Power Automate, R or Alteryx can be used to pick up recent additions and amendments to the data. For example, a workflow to clean and update the data could be useful before the data is loaded in. Setting data flows to run automatically out of office hours may be useful dependent on your levels of data and data refresh requirements.  
   
@@ -48,21 +47,21 @@ Alternatively, tools such as Power Automate, R or Alteryx can be used to pick up
 ## Modelling data  
   
 When importing the data, ensure that your data is modelled efficiently.  
-Microsoft have data reduction techniques for import modelling guidance available at the following link:  
-[Microsoft Guidance Link][source 4]  
+Microsoft have [data reduction techniques for import modelling guidance][source 4] available.  
+
   
 There are eight different data reduction techniques covered in this article. These techniques include:
--	Remove unnecessary columns [Link][source 5]
--	Remove unnecessary rows [Link][source 6]
--	Group by and summarize [Link][source 7]
--	Optimize column data types [Link][source 8]
--	Preference for custom columns [Link][source 9]
--	Disable Power Query query load [Link][source 10]
--	Disable auto date/time [Link][source 11]
--	Switch to Mixed mode [Link][source 12]  
+-	[Remove unnecessary columns][source 5]
+-	[Remove unnecessary rows][source 6]
+-	[Group by and summarize][source 7]
+-	[Optimize column data types][source 8]
+-	[Preference for custom columns][source 9]
+-	[Disable Power Query query load][source 10]
+-	[Disable auto date/time][source 11]
+-	[Switch to Mixed mode][source 12]  
   
-The ‘Data Modelling In Power BI: Helpful Tips & Best Practices’ article may be useful [Link][source 13]  
-And ‘Model data with Power BI’ training is also available [Link][source 14]    
+The [‘Data Modelling In Power BI: Helpful Tips & Best Practices’ article][source 13] may be useful.  
+And [‘Model data with Power BI’ training][source 14] is also available.    
 
 
 

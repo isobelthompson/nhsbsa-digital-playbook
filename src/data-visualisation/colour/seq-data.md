@@ -16,9 +16,9 @@ When you are presenting sequential data, it is est to use a single hue, or small
   
 Sequential data should use NHS Blue (#005EB8) as our primary colour to be used. Lightness should follow from pale to dark, rather than alternating between hues. Colours should also progress in the direction a user would expect, for example, for a line chart tracking age groups over time, a lighter colour would be used to demonstration younger citizens, and a darker colour for older citizens.  
   
-[Source][seq 1]  
+[Source - ][seq 1]  
   
-Due to the problems with contrast ratios in this palette, there is specific advice for different chart types: [Advice Link][seq 2]  
+Due to the problems with contrast ratios in this palette, there is [specific advice for different chart types][seq 2].  
 
 
 [Back to Colours home](../colour/colour.md)  

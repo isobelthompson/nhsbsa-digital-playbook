@@ -15,7 +15,7 @@ The Power BI section includes functionalities and ways of working specific to Po
   
 There are many functionalities available in a Power BI dashboard, and our users have varying levels of data literacy and data visualisation skills to navigate our data products. To ensure our users get the most from our products, and are utilising them, this guidance has been designed to help aid our users in navigating our Power BI data products.  
   
-This document is designed to be a snapshot of useful functionalities for an end user. Microsoft have comprehensive consumer manuals online for end users - [Link][hint 1].  
+This document is designed to be a snapshot of useful functionalities for an end user. Microsoft have [comprehensive consumer manuals][hint 1] online for end users.  
   
 To ensure our users have access to this information as they need it, it is recommended to add a ‘User Hints’ page to the dashboard, which is hidden unless the user clicks on the button and relevant description to navigate to this page. This links in with the ‘Layout of a dashboard’ and ‘About Pages’ documentation guidance.  
   
@@ -38,7 +38,7 @@ If a filter panel is present, there is no need to use keyboard keys to use the f
 To reset the Filters pane to the designer's defaults, select the Reset icon from the top menu bar.  
 ![Screenshot showing the reset filters button](reset-button.png)  
 
-Microsoft guidance for filters - [Link][hint 2]  
+Microsoft have [guidance for filters][hint 2] available online.  
 
 
 ## Drill downs  
@@ -51,13 +51,13 @@ You can tell if a visual has a hierarchy by hovering over it. If the drill contr
 Another way to access the drill features is by right-clicking a data point on the visual to open a menu with available options.  
 ![Screenshot showing the menu that appears when a visual is right-clicked](drill-down-2.png)  
   
-Microsoft guidance for drill downs - [Link][hint 3]  
+Microsoft have [guidance for drill downs][hint 3] available online. 
   
     
 ## Tooltips  
   
 A tooltip is a box that appears when hovered over to provide the user with more information. To use a tooltip, hover over data visualisations. Please note, these visualisations may have bespoke tooltips in which the developer has customised or amended the default tooltip, this customised tooltip could show as a different structure of detail, or as a visualisation itself.  
-[link to tooltips page]
+See the playbook [tooltips page](../../../data-visualisation/tooltips/tooltips.md) for more detail.
   
   
 ## Switching between visualisation types  
@@ -73,7 +73,7 @@ Q&A is available in reports if the report designer added a specific type of inte
 ![Screenshot showing where to enter natural language questions in the Power BI service](QA-bar.png)  
 ![Screenshot showing the specific Q&A visual](QA-visual.png)  
 
-Microsoft guidance on Q&A functionality - [Link][hint 4]  
+Microsoft have [guidance on Q&A functionality][hint 4] available online. 
   
     
 ## Checking the refreshed date of a report and the owner  
@@ -83,7 +83,7 @@ What can you do to ensure you're using the latest content? In most cases, you do
 If you have questions about content freshness, contact the designer directly. The examples below show you how to identify and contact the owner of your content.  
 ![Screenshot showing where to find owner and refresh date](owner.png)  
   
-Microsoft guidance on checking data refreshes - [Link][hint 5]  
+Microsoft have [guidance on checking data refreshes][hint 5] available online.  
   
     
 ## Bookmarking settings on a report  
@@ -100,7 +100,7 @@ The maximum number of personal bookmarks per report is 20. When you create a boo
 -	Sort order
 -	Drill location  
   
-Microsoft guidance on bookmarks - [Link][hint 6]
+Microsoft have [guidance on bookmarks][hint 6] available online.
 
 
   

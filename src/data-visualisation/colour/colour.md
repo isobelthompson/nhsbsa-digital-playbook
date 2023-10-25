@@ -48,8 +48,8 @@ Example A: Using colour to connect information. Note how ‘Services’ uses a d
 Focus charts are charts which use colour to highlight specific elements to help users understand the information.  
 The primary colour NHS Blue (#005EB8) should be used to pull focus, against NHS Grey 3 (#aeb7bd).  
   
-[Source - ][colours 6] 
-[Source][colours 7]  
+[Source - Focus charts colour palette][colours 6] 
+[Source - NHS digital service manual; Colour][colours 7]  
 
   
 ## Text  
@@ -59,7 +59,7 @@ This should be used across the majority of headers and body of text.
 The secondary text colour to use is: #4c6272
 This can be used for things such as a search box, or secondary content such as the heading of a links section.
   
-[Source][colours 8]  
+[Source - NHS digital service manual; Colour][colours 8]  
 
 
 ## Alerts  

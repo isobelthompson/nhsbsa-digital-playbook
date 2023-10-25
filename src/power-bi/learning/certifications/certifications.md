@@ -11,10 +11,11 @@ related:
     tag: [pl-certs, dp-certs]
 ---
 ## Power platforms certifications  
-  
-Microsoft Power Platform training and certifications: aka.ms/PPTrainCertDeck  
-Microsoft Azure training and certifications: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J5ea  
 
-*fix above
-  
-Please note, not all of the Microsoft Azure certifications are included on these pages.
+Please note, not all of the Microsoft Azure certifications are included on these pages. For more information you can visit the Microsoft pages:  
+- [Microsoft Power Platform training and certifications][learn 1]  
+- [Microsoft Azure training and certifications][learn 2]  
+
+
+[learn 1]: aka.ms/PPTrainCertDeck
+[learn 2]: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J5ea

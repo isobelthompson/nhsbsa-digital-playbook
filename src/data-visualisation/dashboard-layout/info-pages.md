@@ -38,18 +38,18 @@ The information pages have the following features present across each page:
 -	The Report/Dashboard Title and name of the page, alongside the reporting month and year.
 -	A quick links section on the left-hand side of the page is optional. This panel is designed not to duplicate a list of all pages, but to highlight key pages the user may be interested in.
 -	Information in the main body of the page.
--	A footer to state who created the dashboard, and a link to the accessibility statement: [Accessibility Statement][info 0]
+-	A footer to state who created the dashboard, and a link to the [Accessibility Statement][info 0]
 -	The background is NHS Grey 5 (#f0f4f5). Please see the colour guidance for more details.  
   
   
 ### Text content  
   
-Your content should follow the corporate NHS Business Services Authority Content Design Standards - [Link][info 1]  
+Your content should follow the corporate [NHS Business Services Authority Content Design Standards][info 1]  
   
 Some important notes in relation to your text content:  
 -	A Header 1 has been used on each page to help navigate a screen reader, Header 1 should be size 16px.
--	The body of the text should be size 12px. [Source][info 2]
--	Frutiger or Arial should be used as the font throughout the report. The core NHS font is Frutiger and the secondary font is Arial. [Source][info 3]  
+-	The body of the text should be size 12px. [Source - Accessible print publications ][info 2]
+-	Frutiger or Arial should be used as the font throughout the report. The core NHS font is Frutiger and the secondary font is Arial. [Source - NHS identity guidelines; Fonts][info 3]  
 
 This is a basic example of one of the pages:  
 ![Example dashboard information page including a New section and release notes](info-page.png)
