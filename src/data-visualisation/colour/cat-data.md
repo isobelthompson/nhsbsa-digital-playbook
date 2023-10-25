@@ -87,8 +87,8 @@ It is difficult to choose colours for line charts with more than two series. Thi
 Lines do not always stay in the same order. So, it is not possible to make sure adjacent colours always have at least a 3 to 1 contrast ratio.  
 This means that it is not possible to provide a palette for line charts with more than two series that would meet the contrast ratio requirements. So, you should only use line charts with more than two series when they are essential to getting information across. This will help you meet accessibility success criterion 1.4.11.  
   
-Guidance, such as labelling lines, using textures or shapes for data points may work to distinguish multiple categories. You can see more advice within the source link.  
-[Source - Categorical data colour palette][cat 5]  
+Guidance, such as labelling lines, using textures or shapes for data points may work to distinguish multiple categories. You can see more advice on the [Categorical data colour palette][cat 5] page.  
+  
   
     
 ### Pie charts  
