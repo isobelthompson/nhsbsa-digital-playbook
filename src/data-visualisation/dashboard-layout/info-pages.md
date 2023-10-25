@@ -77,43 +77,44 @@ It includes:
 -	A contact section for users in case of queries, feedback, training needs or technical support.
 -	An insight generator for users to ask questions and generate insights from the data.  
   
-![Dashboard page 1 example](page-1-eg.png)  
+![Dashboard information page example](page-1-eg.png)  
   
     
 ### Data details example page 
   
 The Data Details page has been designed to inform the user further on the details of the data, enabling data literacy and aiding understanding and therefore use of the report.  
   
-It includes:  
-- 	Methodology, for example, around the collection of data, or data included in the report.
--	Any assumptions made to the datasets.
--	Data source details, including various data sources, the date the data was last refreshed, the latest reporting period and number of records (which is useful to see if there are any issues, for example, if less records are showing than expected).
--	Data Dictionary details, and a link so that users can see definitions of the data and formats. This helps users to see the data lineage and understand the metadata behind the reports.
--	Glossary details around the terminology used, and a link so that users can access and understand relevant terminology included in the report.  
+It includes the following:  
+- Methodology, for example, around the collection of data, or data included in the report.
+- Any assumptions made to the datasets.
+- Data source details, including various data sources, the date the data was last refreshed, the latest reporting period and number of records (which is useful to see if there are any issues, for example, if less records are showing than expected).
+- Data Dictionary details, and a link so that users can see definitions of the data and formats. This helps users to see the data lineage and understand the metadata behind the reports.
+- Glossary details around the terminology used, and a link so that users can access and understand relevant terminology included in the report.  
   
 ![Data details page example](page-5-eg.png)  
   
   
 ### Updates example page 
   
-The Updates page is designed to help inform users on relevant news, release updates, and any other ongoing updates beneficial to the user.
-It includes:  
--	Relevant news to help inform users on key events which could have had an impact on the data shown.
--	Links to relevant NHSBSA sites and news.
--	Release notes relating to the dashboard version numbers so that users are informed of new features, improvements, or bug fixes. 
--	Announcements could be included in this section, for example if the NHSBSA has been made aware of an issue, and a fix is working to be put in place.  
+The Updates page is designed to help inform users on relevant news, release updates, and any other ongoing updates beneficial to the user.  
+  
+It includes the following:  
+- Relevant news to help inform users on key events which could have had an impact on the data shown.
+- Links to relevant NHSBSA sites and news.
+- Release notes relating to the dashboard version numbers so that users are informed of new features, improvements, or bug fixes. 
+- Announcements could be included in this section, for example if the NHSBSA has been made aware of an issue, and a fix is working to be put in place.  
   
 ![Updates page example](page-6-eg.png)  
   
     
 ### How to use example page  
   
-The How to use page is relevant especially for users who have limited technological literacy and may not be as familiar with the reporting software used. It aims to help guide users, limit support needed, maximise usage and optimise intake of the dashboard and information shown. Please see the Power BI User Hints standards as an example of information to include on a How to use page: [Link to User Hints Standards](link to user hints page)  
+The How to use page is relevant especially for users who have limited technological literacy and may not be as familiar with the reporting software used. It aims to help guide users, limit support needed, maximise usage and optimise intake of the dashboard and information shown. Please see the [Power BI User Hints standards](../../power-bi/standards/user_hints/user-hints.md) as an example of information to include on a How to use page.  
   
-It includes:  
--	Dashboard functionality to give details on functions within the dashboard, for example, users may not be familiar with drill down functionality and how to access it, therefore might miss this feature and other insights if not prompted to look and use this function.
--	Links to relevant articles or training courses could be useful, for example, NHSBSA training courses sign up or Microsoft could be referenced for Power BI reports.
--	Accessibility hints could be included in this section, for example, how to change from a chart format to a table.  
+It includes the following:  
+- Dashboard functionality to give details on functions within the dashboard, for example, users may not be familiar with drill down functionality and how to access it, therefore might miss this feature and other insights if not prompted to look and use this function.
+- Links to relevant articles or training courses could be useful, for example, NHSBSA training courses sign up or Microsoft could be referenced for Power BI reports.
+- Accessibility hints could be included in this section, for example, how to change from a chart format to a table.  
   
 ![How to use page example](page-7-eg.png)  
   

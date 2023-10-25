@@ -26,14 +26,14 @@ Contrast ratios should be checked to help with conditions such as low vision and
   
 ## Aspects to be considered  
   
--   Limit the number of colours you use to be those necessary, and which helps the user’s clarity.
--	Use colour consistently; colours should be aligned consistency to the same variables (Example A).
--	Consider colour associations and personalisations; consider whether colours should be used to denote certain meanings. For example, if the NHS is being used as a comparison against another organisation, it might be appropriate to use NHS Blue.
--   Colour contrast; ensure there is enough of a contrast between the colours used. The Web Content Accessibility Guidelines (WCAG) which the UK accessibility legislation aligns to, require a 3 to 1 ratio for graphical elements and 4.5 to 1 ratio for text.
+- Limit the number of colours you use to be those necessary, and which helps the user’s clarity.
+- Use colour consistently; colours should be aligned consistency to the same variables (Example A).
+- Consider colour associations and personalisations; consider whether colours should be used to denote certain meanings. For example, if the NHS is being used as a comparison against another organisation, it might be appropriate to use NHS Blue.
+- Colour contrast; ensure there is enough of a contrast between the colours used. The Web Content Accessibility Guidelines (WCAG) which the UK accessibility legislation aligns to, require a 3 to 1 ratio for graphical elements and 4.5 to 1 ratio for text.
 * The WebAIM colour contrast checker may help: [WebAIM Contrast Checker 1][webaim 1] or [WebAIM Contrast Checker 2][webaim 2] 
--	Colour should not be used as the only way to communicate information. This is stated in accessibility success criterion 1.4.1. Ensure there is an alternative option for users to obtain the same information.  
+- Colour should not be used as the only way to communicate information. This is stated in accessibility success criterion 1.4.1. Ensure there is an alternative option for users to obtain the same information.  
 [Source - What to consider when using colour in charts ][colours 4]
--  Consider the type of chart you are using and the relevant colour palette. Please refer to the Categorical and Sequential Standards pages for more information:
+- Consider the type of chart you are using and the relevant colour palette. Please refer to the Categorical and Sequential Standards pages for more information:
 * [Categorical Data Colour Standards](../colour/cat_data.md)
 * [Sequential Data Colour Standards](../colour/seq_data.md)  
 
@@ -68,12 +68,12 @@ To focus the readers attention, you can use a background of NHS Blue (005EB8), w
 
   
 ## Useful links  
--	[Government Analysis Function guidance][link 1] 
--	[Digital Service Manual, NHS Colours][link 2] 
--	[NHS Identity Standards][link 3] 
--	[GOV.UK Design System, Colours][link 4] 
--	[GOV.UK Elements has now been replaced by the GOV.UK Design System][link 5] 
--	[Tint and Shade Generator][link 6] 
+- [Government Analysis Function guidance][link 1] 
+- [Digital Service Manual, NHS Colours][link 2] 
+- [NHS Identity Standards][link 3] 
+- [GOV.UK Design System, Colours][link 4] 
+- [GOV.UK Elements has now been replaced by the GOV.UK Design System][link 5] 
+- [Tint and Shade Generator][link 6] 
   
 
 

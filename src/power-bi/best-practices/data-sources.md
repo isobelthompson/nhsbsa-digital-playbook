@@ -17,11 +17,11 @@ There are various data sources available in Power BI. Your use case depends on w
 In DirectQuery mode, the Power BI engine queries the data at the source, which can be slow but avoids having to copy the data. Any changes at the data source are immediately reflected in the query results.  
   
 DirectQuery in Power BI offers the greatest benefits in the following scenarios:  
--	The data changes frequently, and you need near real-time reporting.
--	You need to handle large data without having to pre-aggregate.
--	The underlying source defines and applies security rules.
--	Data sovereignty restrictions apply.
--	The source is a multidimensional source containing measures, such as SAP BW.  
+- The data changes frequently, and you need near real-time reporting.
+- You need to handle large data without having to pre-aggregate.
+- The underlying source defines and applies security rules.
+- Data sovereignty restrictions apply.
+- The source is a multidimensional source containing measures, such as SAP BW.  
   
 [Source - Microsoft learn; DirectQuery use cases][source 1]  
 
@@ -51,14 +51,14 @@ Microsoft have [data reduction techniques for import modelling guidance][source 
 
   
 There are eight different data reduction techniques covered in this article. These techniques include:
--	[Remove unnecessary columns][source 5]
--	[Remove unnecessary rows][source 6]
--	[Group by and summarize][source 7]
--	[Optimize column data types][source 8]
--	[Preference for custom columns][source 9]
--	[Disable Power Query query load][source 10]
--	[Disable auto date/time][source 11]
--	[Switch to Mixed mode][source 12]  
+- [Remove unnecessary columns][source 5]
+- [Remove unnecessary rows][source 6]
+- [Group by and summarize][source 7]
+- [Optimize column data types][source 8]
+- [Preference for custom columns][source 9]
+- [Disable Power Query query load][source 10]
+- [Disable auto date/time][source 11]
+- [Switch to Mixed mode][source 12]  
   
 The [‘Data Modelling In Power BI: Helpful Tips & Best Practices’ article][source 13] may be useful.  
 And [‘Model data with Power BI’ training][source 14] is also available.    

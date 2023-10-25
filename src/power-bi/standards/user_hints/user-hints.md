@@ -93,12 +93,12 @@ Please note, this functionality requires a Pro or Premium licence.
 A bookmark captures the state of a report page. It includes the settings you've made to filters, slicers, and visuals on that page. After the report page is set the way you want, give it a friendly name. Now you can easily return to that state of the report page. Select a bookmark, and Power BI takes you back to that view.  
   
 The maximum number of personal bookmarks per report is 20. When you create a bookmark, the following elements are saved with the bookmark:  
--	The current page
--	Filters
--	Slicers, including slicer type (for example, dropdown or list) and slicer state
--	Visual selection state (such as cross-highlight filters)
--	Sort order
--	Drill location  
+- The current page
+- Filters
+- Slicers, including slicer type (for example, dropdown or list) and slicer state
+- Visual selection state (such as cross-highlight filters)
+- Sort order
+- Drill location  
   
 Microsoft have [guidance on bookmarks][hint 6] available online.
 

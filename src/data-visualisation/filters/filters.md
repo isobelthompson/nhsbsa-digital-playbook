@@ -35,14 +35,14 @@ Within some data visualisation tools filter panels can be included which may use
 ## Design of a filter  
 
 A filter should be used to enable functionality of a dashboard for a user, but not distract from the main content.
--	The filter should clearly state its purpose. A label as a header, such as ‘Contact type filter’ is useful.
--	A user should always be able to clearly tell which filters are in place. To do this, use dynamic titles on your charts.
--	A ‘clear selection’ button in the top right-hand side of the screen is optional. This is to allow the user to quickly remove any filters applied and ensure that the report can be quickly set to be unfiltered should a user need this:  
+- The filter should clearly state its purpose. A label as a header, such as ‘Contact type filter’ is useful.
+- A user should always be able to clearly tell which filters are in place. To do this, use dynamic titles on your charts.
+- A ‘clear selection’ button in the top right-hand side of the screen is optional. This is to allow the user to quickly remove any filters applied and ensure that the report can be quickly set to be unfiltered should a user need this:  
 ![Screenshot of the top section of a dashboard showing the Clear Selection button](clear-button.png)  
--	A font size of 11px should be used to Header the filter.
--	Frutiger or Arial should be used as the font, consistent with the rest of your report.
--	Filters should be of equal widths and heights if possible.
--	No borders or shadow borders should be used on a filter so as not to distract the user with additional ink to look at.
--	Filters should have a white background.
--	If the filter includes a timeline, NHS Blue (#005EB8) should be used:  
+- A font size of 11px should be used to Header the filter.
+- Frutiger or Arial should be used as the font, consistent with the rest of your report.
+- Filters should be of equal widths and heights if possible.
+- No borders or shadow borders should be used on a filter so as not to distract the user with additional ink to look at.
+- Filters should have a white background.
+- If the filter includes a timeline, NHS Blue (#005EB8) should be used:  
 ![Screenshot of a dashboard showing a timeline filter in the colour NHS Blue](timeline-filter.png)

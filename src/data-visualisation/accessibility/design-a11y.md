@@ -13,7 +13,6 @@ order:
 The UK Home Office created [Designing for accessibility posters.][home office posters] 
 
 The posters include Dos and Don’ts for individuals:  
-
 - on the autistic spectrum
 - who use screen readers
 - with low vision
@@ -80,7 +79,7 @@ Some best practices for designing charts accessibly:
 ## Spreadsheet accessibility  
   
 There is a checklist to follow online which the Government Analysis Function created.  
-The following links will also be useful:  
+The following links may also be useful:  
 - [Making spreadsheets accessible: a checklist of the basics – Government Analysis Function][gov 1]
 - [Releasing Statistics in Spreadsheets][gov 2] 
 - [Make your Excel documents accessible to people with disabilities - Microsoft Support][microsoft]  

@@ -12,9 +12,9 @@ order:
 
  The accessibility testing framework, guidance and toolkit can be found on Confluence, containing the different test stages and how to create an Accessibility statement.  
  The [accessibility testing toolkit and checklists][toolkit] were created by the NHSBSA test community, for use across the organisation.  
-   
-   
      
+  
+    
 [Back to Accessibility home](../accessibility/a11y.md)  
 
 

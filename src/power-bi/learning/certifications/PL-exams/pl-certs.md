@@ -18,4 +18,4 @@ There are many Microsoft Power Platforms and Azure certifications available. Ple
 If you have any questions please get in touch with [Helen O'Donnell (Data Visualisation Manager)][email address].
 
 [link]: https://nhsbsauk.sharepoint.com/:x:/s/DataWarehouse/EccsayGlP-JDqSFfWK5BpXIBp3Ghr3wxMrjHUOtHmKQfCw?e=l1fvBH
-[email address]: 
+[email address]: mailto:helen.odonnell@nhsbsa.nhs.uk
