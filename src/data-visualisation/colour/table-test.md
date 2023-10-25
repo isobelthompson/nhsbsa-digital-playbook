@@ -9,26 +9,18 @@ order:
     data-viz-colour: 3
 ---
 
-$ mkdir markdown-it-multimd-table
-$ cd markdown-it-multimd-table
-$ npm install markdown-it markdown-it-multimd-table --prefix .
-$ vim test.js
+// defaults
+var md = require('markdown-it')()
+            .use(require('markdown-it-multimd-table'));
 
-    var md = require('markdown-it')()
-                .use(require('markdown-it-multimd-table'));
+// full options list (equivalent to defaults)
+var md = require('markdown-it')()
+            .use(require('markdown-it-multimd-table'), {
+              multiline:  false,
+              rowspan:    false,
+              headerless: false,
+              multibody:  true,
+              autolabel:  true,
+            });
 
-    const exampleTable =
-    "|             |          Grouping           || \n" +
-    "First Header  | Second Header | Third Header | \n" +
-    " ------------ | :-----------: | -----------: | \n" +
-    "Content       |          *Long Cell*        || \n" +
-    "Content       |   **Cell**    |         Cell | \n" +
-    "                                               \n" +
-    "New section   |     More      |         Data | \n" +
-    "And more      | With an escaped '\\|'       || \n" +
-    "[Prototype table]                              \n";
-
-    console.log(md.render(exampleTable));
-
-$ node test.js > test.html
-$ firefox test.html
+md.render(/*...*/)
