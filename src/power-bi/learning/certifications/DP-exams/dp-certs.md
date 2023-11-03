@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: page
 title: "DP Certifications"
 description: "Overview of the DP certifications relevant to the NHSBSA"
 status: DRAFT

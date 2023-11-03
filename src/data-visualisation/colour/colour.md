@@ -3,12 +3,12 @@ layout: page
 title: "NHSBSA Colour Guidance"
 description: "Colour guidance overview for the NHSBSA"
 status: DRAFT
-tags:
-order: [data-viz, data-viz-colour]
-    data-viz: 2
-    data-viz-colour: 1
+tags: []
+order:
+  data-viz: 2
+  data-viz-colour: 1
 related:
-    tag: data-viz-colour
+  tag: data-viz-colour
 ---
 ## NHS Colour Palette  
   

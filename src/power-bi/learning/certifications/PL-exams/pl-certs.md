@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: page
 title: "PL Certifications"
 description: "Overview of the PL certifications relevant to the NHSBSA"
 status: DRAFT
