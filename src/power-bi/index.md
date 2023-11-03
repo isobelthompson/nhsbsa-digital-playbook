@@ -11,14 +11,14 @@ The Power BI section includes functionalities and ways of working specific to Po
 
 ## Best Practices  
   
-[Data Sources](../power-bi/best-practices/data-sources.md)  
+[Data Sources](../power-bi/best-practices/data-sources)  
   
-[Workspaces](../power-bi/best-practices/workspaces.md)  
+[Workspaces](../power-bi/best-practices/workspaces)  
   
 ## Standards  
   
-[User Hints](../power-bi/standards/user-hints.md)  
+[User Hints](../power-bi/standards/user-hints)  
   
 ## Learning  
   
-[Certifications](../power-bi/learning/certifications.md)
+[Certifications](../power-bi/learning/certifications)
