@@ -6,6 +6,5 @@ status: DRAFT
 tags: [home, data-viz, data-viz-home]
 order: 1
 related:
-    title: Data Visualisation Standards
     tag: data-viz-home
 ---
