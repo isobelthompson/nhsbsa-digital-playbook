@@ -6,7 +6,7 @@ status: DRAFT
 tags: [data-viz, data-viz-a11y]
 order:
     data-viz: 2
-    data-viz-a11y: 3
+    data-viz-a11y: 1
 ---
 ## Designing for accessibility  
 
