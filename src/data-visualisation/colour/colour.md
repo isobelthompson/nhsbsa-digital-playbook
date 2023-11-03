@@ -3,7 +3,7 @@ layout: page
 title: "NHSBSA Colour Guidance"
 description: "Colour guidance overview for the NHSBSA"
 status: DRAFT
-tags: []
+tags: [data-viz, data-viz-home, data-viz-colour]
 order:
   data-viz: 2
   data-viz-colour: 1

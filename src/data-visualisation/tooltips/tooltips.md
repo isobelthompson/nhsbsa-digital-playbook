@@ -3,7 +3,7 @@ layout: page
 title: "Tooltips"
 description: "Standards for using tooltips at the NHSBSA"
 status: DRAFT
-tags: [data-viz, data-viz-tooltips]
+tags: [data-viz, data-viz-tooltips, data-viz-home]
 order:
     data-viz: 2
     data-viz-tooltips: 1

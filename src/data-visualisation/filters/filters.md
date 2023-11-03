@@ -3,7 +3,7 @@ layout: page
 title: "Filter Standards"
 description: "Standards for using filters at the NHSBSA"
 status: DRAFT
-tags: [data-viz, data-viz-filters]
+tags: [data-viz, data-viz-filters, data-viz-home]
 order:
     data-viz: 2
     data-viz-filters: 1

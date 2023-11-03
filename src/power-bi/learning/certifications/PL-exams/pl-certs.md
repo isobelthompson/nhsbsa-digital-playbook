@@ -3,7 +3,7 @@ layout: page
 title: "PL Certifications"
 description: "Overview of the PL certifications relevant to the NHSBSA"
 status: DRAFT
-tags: [power-bi, power-certifications, pl-certs]
+tags: [power-bi, power-certifications, pl-certs, cert-home]
 order: 
     power-bi: 3
     power-certifications: 2
