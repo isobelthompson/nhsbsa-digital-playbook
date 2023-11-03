@@ -21,4 +21,4 @@ The Power BI section includes functionalities and ways of working specific to Po
   
 ## Learning  
   
-[Certifications](../power-bi/learning/certifications)
+[Certifications](../power-bi/learning/certifications/certifications)
