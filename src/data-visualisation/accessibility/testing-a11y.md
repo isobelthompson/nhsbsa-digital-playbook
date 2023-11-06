@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: "Accessibility Testing"
 description: "How do we test for accessibility at the NHSBSA?"
 status: DRAFT

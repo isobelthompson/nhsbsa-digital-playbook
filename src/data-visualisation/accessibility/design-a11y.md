@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: article
 title: "Designing for Accessibility"
 description: "How do we design for accessibiliity at the NHSBSA?"
 status: DRAFT
 tags: [data-viz, data-viz-a11y]
 order:
     data-viz: 2
-    data-viz-a11y: 1
+    data-viz-a11y: 3
 ---
 ## Designing for accessibility  
 
@@ -38,7 +38,11 @@ Money:
 - For amounts in millions or billions, format as '£X million' or '£X billion', not written in full 
 - Do not use '£0.XX millions' for amounts less than £1 million  
 
-[Source - Content Design Team ][numbers 1]
+::: details Source
+ 
+[Content Design Team ][numbers 1]
+
+::: 
 
 
 ## Accessibility of colours  
@@ -51,7 +55,11 @@ The [WebAIM Colour Contrast Checker][webaim 1] may help, or [this Colour Contras
   
 It is important to remember that you must not use colour as the only way to communicate something. Patterns can be used, but they can be cluttering and harder to see. It is always recommended to have an alternative way to gain the same information, for example, by having figures available to the user.  
   
+::: details Source
+ 
 [Source - WCAG 2.1 Use of Colour][use of colour]
+
+:::
 
 
 

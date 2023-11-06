@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Report and Dashboard Layout"
+layout: article
+title: "Report and dashboard layout"
 description: "Report and dashboard standards at the NHSBSA"
 status: DRAFT
 tags: [data-viz, data-viz-layout, data-viz-home]
@@ -8,5 +8,6 @@ order:
     data-viz: 2
     data-viz-layout: 1
 related:
-    tag: data-viz-layout
+  title: 'Articles in this section:'
+  tag: data-viz-layout
 ---

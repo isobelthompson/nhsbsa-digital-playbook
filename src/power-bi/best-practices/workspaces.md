@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: "Workspaces"
 description: "Overview of Power BI workspaces"
 status: DRAFT
@@ -9,18 +9,18 @@ order:
     pbi-workspaces: 1
 ---
 The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the Data Visualisation Standards when producing Data Visualisation Products.  
-  
-  
-## Workspaces  
+   
 
 This documentation contains Microsoft guidance alongside our organisational guidance to ensure we are following the necessary processes and keeping our data and reports secure.  
   
 The intended audience of this document is developers or consumers of Power BI reports, of any skill level, who need access to Power BI reports, or the workspaces where those reports are published to, and who will need to understand the privilege levels involved in sharing access.  
   
-A workspace is a central space (think alike a SharePoint folder), where a Power BI dashboard or report can be published to alongside the data.  
+  
      
 
 ## Workspace types  
+  
+A workspace is a central space (think alike a SharePoint folder), where a Power BI dashboard or report can be published to alongside the data.  
   
 There are two types of workspaces:  
 - Personal workspaces: Every user has a personal workspace. A personal workspace may be used for publishing certain types of content. Its primary purpose is to support personal BI usage scenarios.
@@ -28,7 +28,11 @@ There are two types of workspaces:
   
 Using a personal workspace for anything other than learning personal BI, temporary content, or testing purposes can be risky because content in a personal workspace is managed and maintained by one person. Further, a personal workspace doesn't support collaboration with others.  
   
-[Source - Appropriate use of personal workspaces][ws 1]  
+::: details Source
+ 
+[Source - Appropriate use of personal workspaces][ws 1]
+
+:::  
     
 
 ## Guidance  

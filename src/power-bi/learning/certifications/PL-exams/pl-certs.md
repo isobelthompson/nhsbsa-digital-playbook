@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: "PL Certifications"
 description: "Overview of the PL certifications relevant to the NHSBSA"
 status: DRAFT
@@ -11,9 +11,7 @@ order:
 related:
     tag: pl-certs
 ---
-## [Microsoft Power Platform and Azure Certifications Details][link]  
-  
-There are many Microsoft Power Platforms and Azure certifications available. Please look at the pages available or the attached spreadsheet for more details.  
+There are many Microsoft Power Platforms and Azure certifications available. Please look at the pages available or the [attached spreadsheet][link] for more details.  
   
 If you have any questions please get in touch with [Helen O'Donnell (Data Visualisation Manager)][email address].
 

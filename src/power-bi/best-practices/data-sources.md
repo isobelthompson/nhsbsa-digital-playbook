@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: "Data Sources"
 description: "Overview of data sources compatible with Power BI"
 status: DRAFT
@@ -23,7 +23,11 @@ DirectQuery in Power BI offers the greatest benefits in the following scenarios:
 - Data sovereignty restrictions apply.
 - The source is a multidimensional source containing measures, such as SAP BW.  
   
-[Source - Microsoft learn; DirectQuery use cases][source 1]  
+::: details Source
+ 
+[Source - Microsoft learn; DirectQuery use cases][source 1]
+
+:::    
 
 With import mode, performance can be better because the data is cached and optimized for business-intelligence queries without having to query the data source for each DAX query submitted by a report. However, the Power BI engine must first copy the data into the dataset during refresh. Any changes at the source are only picked up with the next dataset refresh.  
 
@@ -33,7 +37,11 @@ Direct Lake Mode can pull directly from the system and caches the data, which me
 
 Currently, to connect Power BI to the Data Warehouse, this would need to be done through the AVDs (Azure Virtual Desktops), which the [Data Platforms Team][DPT] manage access to.  
 
+::: details Source
+ 
 [Source - Microsoft learn; Direct Lake][source 2]
+
+::: 
 
 
 

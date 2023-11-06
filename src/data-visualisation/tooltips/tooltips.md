@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: "Tooltips"
 description: "Standards for using tooltips at the NHSBSA"
 status: DRAFT
@@ -26,7 +26,10 @@ As developers we recommend staying away from using tooltips as they are not alwa
 - keyboard users cannot access them
 - those with motor difficulties can find them hard to operate  
   
-[Source - The problem with tooltips and what to do instead][tool 1]  
+::: details Source
+ 
+[Source - The problem with tooltips and what to do instead][tool 1]
+:::   
   
 ## Tooltips dos-and-don'ts  
   
@@ -42,7 +45,10 @@ Please note, the following three standards are especially important for data vis
 - Placement: position tooltips so they don’t block related content. Often tooltips have automated placements in-built, in which the BI software used will automatically place the tooltip in the most appropriate place. Tooltips must be placed close to the content it is adding additional details to. 
 - Contrasting colours: ensure tooltips have moderate contrast against the background.  
   
-[Source - Tooltip Guidelines][tool 2]  
+::: details Source
+ 
+[Source - Tooltip Guidelines][tool 2]
+:::  
   
 ## Alternative options  
   
@@ -61,7 +67,10 @@ Some options are as follows:
 * are activated on click which works well in all contexts
 - If you need to provide users with clarification, show the content. Again, this information can be toggled on/off depending on a user input, for example, ‘your password must be at least 8-letters long’  
   
-[Source - Tooltip Guidelines][tool 3]  
+::: details Source
+ 
+[Source - Tooltip Guidelines][tool 3]
+:::  
   
 
 [tool 1]: https://adamsilver.io/blog/the-problem-with-tooltips-and-what-to-do-instead/

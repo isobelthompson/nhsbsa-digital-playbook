@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: "User Hints"
 description: "An example of user hints and tips available for end users using Power BI"
 status: DRAFT

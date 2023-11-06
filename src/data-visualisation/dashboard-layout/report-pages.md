@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: "NHSBSA Layout of a Dashboard: Reporting"
 description: "Overview of the report pages to include in NHSBSA reports"
 status: DRAFT

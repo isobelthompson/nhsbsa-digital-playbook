@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: "Primary Colours"
 description: "Overview of the main colours that should be used at the NHSBSA"
 status: DRAFT
@@ -16,7 +16,10 @@ Use a plain background, NHS Grey 5 (#f0f4f5) should be used.
 NHS White (#ffffff) is used to make important information stand out and for alternating backgrounds, for example on the NHS website home page.  
 
 ![A block of the colour NHS White and the corresponding colour codes](NHS-white.png)   
-[Source - NHS digital service manual; Colour][pc 2]  
+::: details Source
+ 
+[Source - NHS digital service manual; Colour][pc 2]
+:::   
   
 
 ### Single variables  
@@ -39,14 +42,20 @@ Otherwise, tints of 80%, 60%, 40% and 20% can be used. Any % value is accepted a
 
 Note: we only recommend outlining the bars when using tints of a palette, in general, bar outlines add unnecessary clutter. We outline all bars to maintain consistency.  
 
+::: details Source
+ 
 [Source - GOV.UK Design System; Colour][pc 3]  
 [Source - Sequential data colour palette][pc 4]  
-[Source - NHS identity guidelines; Using tints][pc 5]  
+[Source - NHS identity guidelines; Using tints][pc 5]
+:::  
 
 For an indication of colour schemes and combinations using binary, qualitative, diverging and sequential data the diagram below is useful:  
 ![Diagram showing how binary, qualitative, diverging and sequential data may be represented by example colour schemes and combinations](colour-schemes.png)  
   
-[Source - Colour use guidelines for mapping and visualization][pc 6]  
+::: details Source
+ 
+[Source - Colour use guidelines for mapping and visualization][pc 6]
+:::   
 
 
 [Back to Colours home](../colour/colour.md)  

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: "Sequential Data"
 description: "Colours used for sequential data at the NHSBSA"
 status: DRAFT

@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Data Accessibility"
+layout: article
+title: "Data accessibility"
 description: "What is data accessibility?"
 status: DRAFT
 tags: [data-viz, data-viz-a11y]
@@ -16,8 +16,13 @@ Conditions that specifically relate to data include:
 - low data literacy  
   
 Therefore, we need to deliver services which convey numbers plainly and in a way that is easy for everyone to understand.  
-[Source - Accessible Numbers][data 1]  
-[Source - Designing for people with dyscalculia and low numeracy][data 2]
+  
+::: details Source
+ 
+[Accessible Numbers][data 1]  
+[Designing for people with dyscalculia and low numeracy][data 2]
+
+::: 
 
   
 ## Best practice for data accessibility  
@@ -37,7 +42,7 @@ Our internal Content Design Standards state how we should be presenting data. So
 - always following the appropriate hierarchy of titles in a page, this helps users of a screen reader navigate content quickly and easily  
   
     
-[Back to Accessibility home](../accessibility/a11y.md)
+[Back to Accessibility home](../a11y)
 
 
 
