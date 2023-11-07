@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "NHSBSA Layout of a Dashboard: Information"
+title: "Layout of a dashboard: Information"
 description: "Overview of the information pages to include in NHSBSA reports"
 status: DRAFT
 tags: [data-viz, data-viz-layout]

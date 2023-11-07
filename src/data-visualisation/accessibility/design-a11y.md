@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Designing for Accessibility"
+title: "Designing for accessibility"
 description: "How do we design for accessibiliity at the NHSBSA?"
 status: DRAFT
 tags: [data-viz, data-viz-a11y]
@@ -57,7 +57,7 @@ It is important to remember that you must not use colour as the only way to comm
   
 ::: details Source
  
-[Source - WCAG 2.1 Use of Colour][use of colour]
+[WCAG 2.1 Use of Colour][use of colour]
 
 :::
 

@@ -8,7 +8,9 @@ order:
     power-bi: 2
     pbi-workspaces: 1
 ---
-The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the Data Visualisation Standards when producing Data Visualisation Products.  
+!!! warning Please note
+The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the data visualisation standards when producing data visualisation products.
+!!!   
    
 
 This documentation contains Microsoft guidance alongside our organisational guidance to ensure we are following the necessary processes and keeping our data and reports secure.  
@@ -30,7 +32,7 @@ Using a personal workspace for anything other than learning personal BI, tempora
   
 ::: details Source
  
-[Source - Appropriate use of personal workspaces][ws 1]
+[Appropriate use of personal workspaces][ws 1]
 
 :::  
     

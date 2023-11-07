@@ -8,7 +8,9 @@ order:
     power-bi: 2
     pbi-data-sources: 1
 ---
-The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the Data Visualisation Standards when producing Data Visualisation Products.  
+!!! warning Please note
+The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the data visualisation standards when producing data visualisation products.
+!!! 
   
 
 ## Data source methods  
@@ -25,7 +27,7 @@ DirectQuery in Power BI offers the greatest benefits in the following scenarios:
   
 ::: details Source
  
-[Source - Microsoft learn; DirectQuery use cases][source 1]
+[Microsoft learn; DirectQuery use cases][source 1]
 
 :::    
 
@@ -39,7 +41,7 @@ Currently, to connect Power BI to the Data Warehouse, this would need to be done
 
 ::: details Source
  
-[Source - Microsoft learn; Direct Lake][source 2]
+[Microsoft learn; Direct Lake][source 2]
 
 ::: 
 

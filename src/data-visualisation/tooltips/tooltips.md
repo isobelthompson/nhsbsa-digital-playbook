@@ -28,7 +28,7 @@ As developers we recommend staying away from using tooltips as they are not alwa
   
 ::: details Source
  
-[Source - The problem with tooltips and what to do instead][tool 1]
+[The problem with tooltips and what to do instead][tool 1]
 :::   
   
 ## Tooltips dos-and-don'ts  
@@ -47,7 +47,7 @@ Please note, the following three standards are especially important for data vis
   
 ::: details Source
  
-[Source - Tooltip Guidelines][tool 2]
+[Tooltip Guidelines][tool 2]
 :::  
   
 ## Alternative options  
@@ -69,7 +69,7 @@ Some options are as follows:
   
 ::: details Source
  
-[Source - Tooltip Guidelines][tool 3]
+[Tooltip Guidelines][tool 3]
 :::  
   
 

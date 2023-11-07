@@ -8,26 +8,27 @@ order:
   data-viz: 2
   data-viz-colour: 1
 related:
+  title: 'Articles in this section:'
   tag: data-viz-colour
 ---
-## NHS Colour Palette  
+## NHS colour palette  
   
 This guidance uses the NHS Colour palette as a basis for data visualisation colour needs within the NHS Business Services Authority (NHSBSA). Using best practice, it has been created to help standardise our products for internal and external users, ensuring consistency, brand reputation and familiarity with our dashboards.  
 This helps towards creating a cohesive user experience, and for data visualisation, helps the user to quickly and easily use our products, extracting meaningful and informed insight.  
 [The internal NHSBSA branding site][colours 1] is useful.  
   
 
-## Accessibility of Colours  
+## Accessibility of colours  
   
 To ensure our charts are usable to all users, colours must be used with enough contrast, sparsely and purposefully.   
 ::: details Source
  
-[Source - success criterion for colours in charts][colours 2]
+[Success criterion for colours in charts][colours 2]
 :::  
 Contrast ratios should be checked to help with conditions such as low vision and colour blindness. Keeping a 3 to 1 contrast ratio between adjacent colours (as set out in success criterion 1.4.11) is important for people with low vision.  
 ::: details Source
  
-[Source - What to consider when using colour in charts ][colours 3]
+[What to consider when using colour in charts ][colours 3]
 :::  
   
 ## Aspects to be considered  
@@ -40,7 +41,7 @@ Contrast ratios should be checked to help with conditions such as low vision and
 - Colour should not be used as the only way to communicate information. This is stated in accessibility success criterion 1.4.1. Ensure there is an alternative option for users to obtain the same information.  
 ::: details Source
  
-[Source - What to consider when using colour in charts ][colours 4]
+[What to consider when using colour in charts ][colours 4]
 :::
 - Consider the type of chart you are using and the relevant colour palette. Please refer to the Categorical and Sequential Standards pages for more information:
 * [Categorical Data Colour Standards](../colour/cat_data.md)
@@ -59,8 +60,8 @@ The primary colour NHS Blue (#005EB8) should be used to pull focus, against NHS 
   
 ::: details Source
  
-[Source - Focus charts colour palette][colours 6] 
-[Source - NHS digital service manual; Colour][colours 7]
+[Focus charts colour palette][colours 6] 
+[NHS digital service manual; Colour][colours 7]
 :::  
 
   
@@ -73,7 +74,7 @@ This can be used for things such as a search box, or secondary content such as t
   
 ::: details Source
  
-[Source - NHS digital service manual; Colour][colours 8]
+[NHS digital service manual; Colour][colours 8]
 :::  
 
 
@@ -86,9 +87,8 @@ To focus the readers attention, you can use a background of NHS Blue (005EB8), w
 - [Government Analysis Function guidance][link 1] 
 - [Digital Service Manual, NHS Colours][link 2] 
 - [NHS Identity Standards][link 3] 
-- [GOV.UK Design System, Colours][link 4] 
-- [GOV.UK Elements has now been replaced by the GOV.UK Design System][link 5] 
-- [Tint and Shade Generator][link 6] 
+- [GOV.UK Design System, Colours][link 4]  
+- [Tint and Shade Generator][link 5] 
   
 
 
@@ -106,5 +106,4 @@ To focus the readers attention, you can use a background of NHS Blue (005EB8), w
 [link 2]: https://service-manual.nhs.uk/design-system/styles/colour 
 [link 3]: https://www.england.nhs.uk/nhsidentity/identity-guidelines/colours/
 [link 4]: https://design-system.service.gov.uk/styles/colour/
-[link 5]: https://govuk-elements.herokuapp.com/colour/ 
-[link 6]: https://maketintsandshades.com 
+[link 5]: https://maketintsandshades.com 

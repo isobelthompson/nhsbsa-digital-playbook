@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Accessibility Testing"
+title: "Accessibility testing"
 description: "How do we test for accessibility at the NHSBSA?"
 status: DRAFT
 tags: [data-viz, data-viz-a11y]

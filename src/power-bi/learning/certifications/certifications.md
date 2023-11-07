@@ -10,7 +10,9 @@ order:
 related:
     tag: [cert-home]
 ---
-The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the Data Visualisation Standards when producing Data Visualisation Products.  
+!!! warning Please note
+The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the data visualisation standards when producing data visualisation products.
+!!!   
   
     
 ## Power platforms certifications  

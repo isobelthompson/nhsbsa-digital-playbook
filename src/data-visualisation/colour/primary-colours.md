@@ -18,7 +18,7 @@ NHS White (#ffffff) is used to make important information stand out and for alte
 ![A block of the colour NHS White and the corresponding colour codes](NHS-white.png)   
 ::: details Source
  
-[Source - NHS digital service manual; Colour][pc 2]
+[NHS digital service manual; Colour][pc 2]
 :::   
   
 
@@ -44,9 +44,9 @@ Note: we only recommend outlining the bars when using tints of a palette, in gen
 
 ::: details Source
  
-[Source - GOV.UK Design System; Colour][pc 3]  
-[Source - Sequential data colour palette][pc 4]  
-[Source - NHS identity guidelines; Using tints][pc 5]
+[GOV.UK Design System; Colour][pc 3]  
+[Sequential data colour palette][pc 4]  
+[NHS identity guidelines; Using tints][pc 5]
 :::  
 
 For an indication of colour schemes and combinations using binary, qualitative, diverging and sequential data the diagram below is useful:  
@@ -54,7 +54,7 @@ For an indication of colour schemes and combinations using binary, qualitative, 
   
 ::: details Source
  
-[Source - Colour use guidelines for mapping and visualization][pc 6]
+[Colour use guidelines for mapping and visualization][pc 6]
 :::   
 
 
