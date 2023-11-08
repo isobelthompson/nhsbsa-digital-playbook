@@ -3,10 +3,11 @@ layout: article
 title: "Microsoft Power Platform and Azure Certifications"
 description: "Links to Microsoft Power Platform and Azure training"
 status: DRAFT
-tags: [power-bi, power-certifications]
+tags: [power-bi, power-certifications, pbi-home]
 order:
     power-bi: 2
     power-certifications: 1
+    pbi-home: 5
 related:
     tag: [cert-home]
 ---

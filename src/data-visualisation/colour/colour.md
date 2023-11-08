@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "NHSBSA colour"
+title: "Colour"
 description: "Colour guidance overview for the NHSBSA"
 status: DRAFT
 tags: [data-viz, data-viz-home, data-viz-colour]

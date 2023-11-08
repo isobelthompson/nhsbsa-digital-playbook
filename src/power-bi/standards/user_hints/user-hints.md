@@ -3,10 +3,11 @@ layout: article
 title: "User Hints"
 description: "An example of user hints and tips available for end users using Power BI"
 status: DRAFT
-tags: [power-bi, pbi-user-hints]
+tags: [power-bi, pbi-user-hints, pbi-home]
 order:
     power-bi: 2
     pbi-user-hints: 1
+    pbi-home: 4
 ---
 !!! warning Please note
 The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the data visualisation standards when producing data visualisation products.
