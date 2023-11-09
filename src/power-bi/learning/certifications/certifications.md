@@ -11,13 +11,6 @@ order:
 related:
     tag: [cert-home]
 ---
-!!! warning Please note
-The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the data visualisation standards when producing data visualisation products.
-!!!   
-  
-    
-## Microsoft certifications  
-
 Please note, not all of the Microsoft Azure certifications are included on these pages. For more information you can visit the Microsoft pages:  
 - [Microsoft Power Platform training and certifications][learn 1]  
 - [Microsoft Azure training and certifications][learn 2]  
