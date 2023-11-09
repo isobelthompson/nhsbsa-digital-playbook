@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Data Sources"
+title: "Data sources"
 description: "Overview of data sources compatible with Power BI"
 status: DRAFT
 tags: [power-bi, pbi-data-sources, pbi-home]

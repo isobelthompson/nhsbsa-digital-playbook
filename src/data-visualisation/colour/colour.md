@@ -8,7 +8,6 @@ order:
   data-viz: 2
   data-viz-colour: 1
 related:
-  title: 'Articles in this section:'
   tag: data-viz-colour
 ---
 ## NHS colour palette  
@@ -88,7 +87,10 @@ To focus the readers attention, you can use a background of NHS Blue (005EB8), w
 - [Digital Service Manual, NHS Colours][link 2] 
 - [NHS Identity Standards][link 3] 
 - [GOV.UK Design System, Colours][link 4]  
-- [Tint and Shade Generator][link 5] 
+- [Tint and Shade Generator][link 5]  
+
+
+## Articles in this section 
   
 
 

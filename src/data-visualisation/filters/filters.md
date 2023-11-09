@@ -14,7 +14,7 @@ Filters should only be used when needed and to add to the value of a dashboard. 
 If there are more than three filters on a dashboard this can take away the value and visual impact of the message and distract a user.  
   
 Features such as parameters can be created and used to change variables used within a chart. An example is below:  
- ![Screenshot of a Provider Assurance Report Summary, showing 3 drop down slicers with 'All' selected and filter for 'Contact' with the 'Phone' option selected](phone-button-2.png)
+ ![Screenshot of a Provider Assurance Report Summary, showing 3 drop down slicers with 'All' selected and filter for 'Contact' with the 'Phone' option selected](phone-button.png)
 
 To ensure data literacy in our end users, and developers, any filters applied should always be clearly stated on the dashboard or report. For example, on Oracle Analytics Classic a disclaimer may be added onto the dashboard:  
 ![Screenshot of an Oracle Analytics Classic results page showing the filter that has been applied](OAC-filter.png)  

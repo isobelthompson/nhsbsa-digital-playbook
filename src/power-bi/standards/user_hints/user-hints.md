@@ -1,7 +1,7 @@
 ---
 layout: article
-title: "User Hints"
-description: "An example of user hints and tips available for end users using Power BI"
+title: "User hints"
+description: "Examples of user hints and tips available for Power BI users"
 status: DRAFT
 tags: [power-bi, pbi-user-hints, pbi-home]
 order:

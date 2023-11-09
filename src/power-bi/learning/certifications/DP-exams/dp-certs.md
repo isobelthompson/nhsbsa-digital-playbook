@@ -1,7 +1,7 @@
 ---
 layout: article
-title: "DP Certifications"
-description: "Overview of the DP certifications relevant to the NHSBSA"
+title: "Azure certifications (DP)"
+description: "Overview of the Azure certifications relevant to the NHSBSA"
 status: DRAFT
 tags: [power-bi, power-certifications, dp-certs, cert-home]
 order: 

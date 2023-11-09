@@ -2,8 +2,10 @@
 layout: article
 title: "Accessibility Test Tech Stack"
 description: "A breakdown of the tools and technologies test use in accessibility testing"
-tags: test-tech-stack
-order: 10
+tags: [test-tech-stack, data-viz-a11y]
+order: 
+  test-tech-stack: 10
+  data-viz-a11y: 4
 ---
 
 ### Accessibility Test

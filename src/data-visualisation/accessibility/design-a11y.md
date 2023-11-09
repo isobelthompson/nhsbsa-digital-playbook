@@ -21,7 +21,7 @@ The posters include Dos and Don’ts for individuals:
 - who are d/Deaf or hard of hearing
 - with anxiety  
   
-## Content Design Standards on numbers  
+## Content design standards on numbers  
 
 The following tips are the most relevant to data visualisation.  
 

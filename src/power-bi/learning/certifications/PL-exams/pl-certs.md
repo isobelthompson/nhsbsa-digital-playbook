@@ -1,7 +1,7 @@
 ---
 layout: article
-title: "PL Certifications"
-description: "Overview of the PL certifications relevant to the NHSBSA"
+title: "Power Platforms certifications (PL)"
+description: "Overview of the Power Platforms certifications relevant to the NHSBSA"
 status: DRAFT
 tags: [power-bi, power-certifications, pl-certs, cert-home]
 order: 

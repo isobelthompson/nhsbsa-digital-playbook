@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Microsoft Power Platform and Azure Certifications"
+title: "Microsoft Power Platform and Azure certifications"
 description: "Links to Microsoft Power Platform and Azure training"
 status: DRAFT
 tags: [power-bi, power-certifications, pbi-home]
@@ -16,7 +16,7 @@ The Power BI section includes functionalities and ways of working specific to Po
 !!!   
   
     
-## Power platforms certifications  
+## Microsoft certifications  
 
 Please note, not all of the Microsoft Azure certifications are included on these pages. For more information you can visit the Microsoft pages:  
 - [Microsoft Power Platform training and certifications][learn 1]  
