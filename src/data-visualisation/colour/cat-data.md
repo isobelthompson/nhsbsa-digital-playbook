@@ -36,8 +36,7 @@ For categorical data, the following colours taken from the NHS identity guidelei
 |   NHS Light Blue   |  50%     |   #a0dbf3     |  
   
     
-![NHS Blue gradient](blue-grad.png)  ![NHS Aqua Green gradient](aqua-grad.png)  ![NHS Pink gradient](pink-grad.png)  
-![NHS Orange gradient](orange-grad.png)  ![NHS Green gradient](green-grad.png)  ![NHS Light Blue gradient](light-blue-grad.png)  
+ ![NHS Blue Gradient](image.png)
 
 Bear in mind that certain colours have certain meanings, and that use of colour is important.  
 Whilst over 4 categories and colours is not recommended, you will notice that after the first 6 colours, the colours are repeated at a 50% tint, still distinguishable to the user, and not adding in additional colours.  
@@ -97,28 +96,29 @@ If you are using red to signal 'warning' or 'caution', and green to signal 'appr
   
 Use additional encoding methods such as symbols or positions to convey meaning:  
 
-![Examples of symbols that could be used alongside colour to convey meaning](symbols.png)  
+ 
   
-[Source - ][cat 8]
+[Source - ][cat 8]  
 
-ONS accessibility tested colours are:  
+
+### ONS accessibility tested colours  
+
   
 - Green: #0f8243  
-![ONS Leaf green colour block](image.png)  
+  
   
 - Neon yellow: #f0f762  
- ![ONS Neon yellow colour block](image-1.png) 
+ 
 
 - Sun yellow: #fbc900  
-![ONS Sun yellow colour block](image-2.png)  
+  
 
 - Jaffa orange: #fa6401  
-![ONS Jaffa orange colour block](image-3.png)  
+  
 
 - Red: #d0021b  
-![ONS Ruby red colour block](image-4.png)  
   
-  
+
 ::: details Source
  
 [ONS Service manual][cat 9] 
@@ -139,4 +139,3 @@ ONS accessibility tested colours are:
 [cat 6]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/
 [cat 7]: https://www.colourblindawareness.org/colour-blindness/
 [cat 9]: https://service-manual.ons.gov.uk/design-system/foundations/colours
-[cat 8]: 
