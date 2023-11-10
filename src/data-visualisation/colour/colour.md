@@ -42,13 +42,14 @@ Contrast ratios should be checked to help with conditions such as low vision and
  
 [What to consider when using colour in charts ][colours 4]
 :::
-- Consider the type of chart you are using and the relevant colour palette. Please refer to the Categorical and Sequential Standards pages for more information:
-* [Categorical Data Colour Standards](../colour/cat_data.md)
-* [Sequential Data Colour Standards](../colour/seq_data.md)  
+
+Consider the type of chart you are using and the relevant colour palette. Please refer to the Categorical and Sequential Standards pages for more information:
+* [Categorical Data Colour Standards](../cat_data.md)
+* [Sequential Data Colour Standards](../seq_data.md)  
 
 Example A: Using colour to connect information. Note how ‘Services’ uses a dark blue in each chart, and Production is denoted by orange.  
-![5 charts including a pie chart, 2 bar charts and 2 line charts](charts.png)  
-  
+![5 charts including a pie chart, 2 bar charts and 2 line charts](../../images/charts.png)  
+ 
 [Source - ][colours 5]  
 
 

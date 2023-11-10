@@ -36,7 +36,9 @@ For categorical data, the following colours taken from the NHS identity guidelei
 |   NHS Light Blue   |  50%     |   #a0dbf3     |  
   
     
- ![NHS Blue Gradient](image.png)
+ ![Small block of colour showing 5 levels of the NHS Blue gradient from 100% tint to 10% tint and the words 'NHS Blue' beneath this](../images/blue-gradient.png)   ![Small block of colour showing 5 levels of the NHS Aqua Green gradient from 100% tint to 10% tint and the words 'NHS Aqua Green' beneath this](../images/aqua-gradient.png)    ![Small block of colour showing 5 levels of the NHS Pink gradient from 100% tint to 10% tint and the words 'NHS Pink' beneath this](../images/pink-gradient.png)  
+ ![Small block of colour showing 5 levels of the NHS Orange gradient from 100% tint to 10% tint and the words 'NHS Orange' beneath this](../images/orange-gradient.png) ![Small block of colour showing 5 levels of the NHS Green gradient from 100% tint to 10% tint and the words 'NHS Green' beneath this](../images/green-gradient.png) ![Small block of colour showing 5 levels of the NHS Light Blue gradient from 100% tint to 10% tint and the words 'NHS Light Blue' beneath this](../images/light-blue-gradient.png)
+
 
 Bear in mind that certain colours have certain meanings, and that use of colour is important.  
 Whilst over 4 categories and colours is not recommended, you will notice that after the first 6 colours, the colours are repeated at a 50% tint, still distinguishable to the user, and not adding in additional colours.  
@@ -96,7 +98,7 @@ If you are using red to signal 'warning' or 'caution', and green to signal 'appr
   
 Use additional encoding methods such as symbols or positions to convey meaning:  
 
- 
+ ![Image showing examples of using RAG status combined with symbols such as tick marks, crosses and exclamation marks to convey information](../images/RAG-symbols.png)
   
 [Source - ][cat 8]  
 
@@ -104,21 +106,20 @@ Use additional encoding methods such as symbols or positions to convey meaning:
 ### ONS accessibility tested colours  
 
   
-- Green: #0f8243  
-  
-  
+- Leaf green: #0f8243  
+![Horizontal rectangle block of ONS colour Leaf green on a white background with the words 'Leaf green' above the colour block, the hex code in the bottom right corner of the colour block and 'CSS variable: --ons-color-leaf-green' beneath the colour block](../images/ons-green.png)
+
 - Neon yellow: #f0f762  
- 
+![Horizontal rectangle block of ONS colour Neon yellow on a white background with the words 'Neon yellow' above the colour block, the hex code in the bottom right corner of the colour block and 'CSS variable: --ons-color-neon-yellow' beneath the colour block](../images/ons-neon-yell.png) 
 
 - Sun yellow: #fbc900  
-  
+![Horizontal rectangle block of ONS colour Sun yellow on a white background with the words 'Sun yellow' above the colour block, the hex code in the bottom right corner of the colour block and 'CSS variable: --ons-color-sun-yellow' beneath the colour block](../images/ons-sun-yell.png)  
 
 - Jaffa orange: #fa6401  
-  
+![Horizontal rectangle block of ONS colour Jaffa orange on a white background with the words 'Jaffa orange' above the colour block, the hex code in the bottom right corner of the colour block and 'CSS variable: --ons-color-jaffa-orange' beneath the colour block](../images/ons-orange.png)  
 
 - Red: #d0021b  
-  
-
+![Horizontal rectangle block of ONS colour Ruby red on a white background with the words 'Ruby red' above the colour block, the hex code in the bottom right corner of the colour block and 'CSS variable: --ons-color-ruby-red' beneath the colour block](../images/ons-red.png)
 ::: details Source
  
 [ONS Service manual][cat 9] 
@@ -126,7 +127,7 @@ Use additional encoding methods such as symbols or positions to convey meaning:
 :::   
 
 
-[Back to Colours home](/nhsbsa-digital-playbook/data-visualisation/colour)
+[Back to Colours home](../colour)
 
 
 

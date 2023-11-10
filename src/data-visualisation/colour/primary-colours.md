@@ -15,6 +15,7 @@ See the [NHS Identity Guidelines Colours pages][pc 1] for more detail.
 Use a plain background, NHS Grey 5 (#f0f4f5) should be used.  
 NHS White (#ffffff) is used to make important information stand out and for alternating backgrounds, for example on the NHS website home page.  
 
+![Horizontal rectangular block of the colour NHS White with the name 'NHS White' as well as the CMYK, RGB and Hex codes for the colour all written below in black text on a white background](../images/nhs-white.png)
    
 ::: details Source
  
@@ -24,12 +25,15 @@ NHS White (#ffffff) is used to make important information stand out and for alte
 
 ### Single variables  
 NHS Blue (#005EB8) is the primary colour to be used across our products.  
-
+  
+![Horizontal rectangular block of the colour NHS Blue with the name 'NHS Blue' as well as the Pantone, CMYK, RGB, Hex, and RAL codes for the colour all written below in black text on a white background](../images/nhs-blue.png)
  
 
 
 ### Two variables  
 NHS Blue (#005EB8) alongside NHS Light Blue (#41B6E6) is recommended for two variables.  
+  
+![Horizontal rectangular block of the colour NHS Blue with the name 'NHS Blue' as well as the Pantone, CMYK, RGB, Hex, and RAL codes for the colour all written below in black text on a white background](../images/nhs-blue.png)      ![Horizontal rectangular block of the colour NHS Light Blue with the name 'NHS Light Blue' as well as the Pantone, CMYK, RGB, and Hex codes for the colour all written below in black text on a white background](../images/nhs-light-blue.png)
  
   
 
@@ -50,7 +54,9 @@ Note: we only recommend outlining the bars when using tints of a palette, in gen
 :::  
 
 For an indication of colour schemes and combinations using binary, qualitative, diverging and sequential data the diagram below is useful:  
-  
+
+![Diagram showing the relationships between different colours and different groups of colours, with the labels 'binary', 'qualitative', 'diverging', and 'sequential' to indicate when each colour scheme is most appropriate](../images/scheme.png)  
+
   
 ::: details Source
  
@@ -58,7 +64,7 @@ For an indication of colour schemes and combinations using binary, qualitative, 
 :::   
 
 
-[Back to Colours home](../colour/colour.md)  
+[Back to Colours home](../colour.md)  
   
   
 
