@@ -48,7 +48,8 @@ Consider the type of chart you are using and the relevant colour palette. Please
 * [Sequential Data Colour Standards](../seq_data.md)  
 
 Example A: Using colour to connect information. Note how ‘Services’ uses a dark blue in each chart, and Production is denoted by orange.  
-![5 charts including a pie chart, 2 bar charts and 2 line charts](../../images/charts.png)  
+  
+![5 charts including a pie chart, 2 bar charts and 2 line charts](../colour/images/charts.png)  
  
 [Source - ][colours 5]  
 

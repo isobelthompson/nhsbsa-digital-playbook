@@ -52,13 +52,16 @@ Some important notes in relation to your text content:
 -	Frutiger or Arial should be used as the font throughout the report. The core NHS font is Frutiger and the secondary font is Arial. [Source - NHS identity guidelines; Fonts][info 3]  
 
 This is a basic example of one of the pages:  
-![Example dashboard information page including a New section and release notes](info-page.png)
+  
+![Example dashboard information page including a New section and release notes](../images/info-page.png)
   
 An example of how the dashboard standards might look in a report:  
-![Example report page following dashboard standards including header and filter layout, KPI cards and charts](info-page-2.png)  
+  
+![Example report page following dashboard standards including header and filter layout, KPI cards and charts](../images/info-page-2.png)  
   
 Please note, if there was an urgent update for users to be aware of, a banner spanning the top of the dashboard such as the below should be used.  
-![Banner across the top of a dashboard, with an update message](update.png)  
+  
+![Banner across the top of a dashboard, with an update message](../images/update.png)  
   
   
 ### Dashboard information example page 
@@ -77,7 +80,7 @@ It includes:
 -	A contact section for users in case of queries, feedback, training needs or technical support.
 -	An insight generator for users to ask questions and generate insights from the data.  
   
-![Dashboard information page example](page-1-eg.png)  
+![Dashboard information page example](../images/page-1-eg.png)  
   
     
 ### Data details example page 
@@ -91,7 +94,7 @@ It includes the following:
 - Data Dictionary details, and a link so that users can see definitions of the data and formats. This helps users to see the data lineage and understand the metadata behind the reports.
 - Glossary details around the terminology used, and a link so that users can access and understand relevant terminology included in the report.  
   
-![Data details page example](page-5-eg.png)  
+![Data details page example](../images/page-5-eg.png)  
   
   
 ### Updates example page 
@@ -104,7 +107,7 @@ It includes the following:
 - Release notes relating to the dashboard version numbers so that users are informed of new features, improvements, or bug fixes. 
 - Announcements could be included in this section, for example if the NHSBSA has been made aware of an issue, and a fix is working to be put in place.  
   
-![Updates page example](page-6-eg.png)  
+![Updates page example](../images/page-6-eg.png)  
   
     
 ### How to use example page  
@@ -116,7 +119,7 @@ It includes the following:
 - Links to relevant articles or training courses could be useful, for example, NHSBSA training courses sign up or Microsoft could be referenced for Power BI reports.
 - Accessibility hints could be included in this section, for example, how to change from a chart format to a table.  
   
-![How to use page example](page-7-eg.png)  
+![How to use page example](../images/page-7-eg.png)  
   
     
 

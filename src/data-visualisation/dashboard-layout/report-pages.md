@@ -31,18 +31,18 @@ The example template includes the following:
 - Charts should help give further information to the summary statistics shown.
 - In the top right-hand corner there is a nudge to look further into the details of the data, helping to guide the user on their journey.  
   
-![Summary/highlights page example](page-2-eg.png)  
+![Summary/highlights page example](../images/page-2-eg.png)  
   
     
 ### Insight example page 1  
   
 This potential layout includes an automated narrative section to help draw out key aspects to the user, and help tell a story of the data. In addition, if actions can be automatically generated for the user this would help maximise the meaningful insights and decisions generated as a result of the report.  
   
-![Insight page 1 example](page-3-eg.png)  
+![Insight page 1 example](../images/page-3-eg.png)  
   
   
 ### Insight example page 2  
   
 This potential layout includes an insight generator to help encourage the user to ask questions, interrogate and explore the data further.  
   
-![Insight page 2 example](page-4-eg.png)
+![Insight page 2 example](../images/page-4-eg.png)
