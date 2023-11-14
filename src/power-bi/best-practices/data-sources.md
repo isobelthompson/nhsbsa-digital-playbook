@@ -71,8 +71,8 @@ There are eight different data reduction techniques covered in this article. The
 - [Disable auto date/time][source 11]
 - [Switch to Mixed mode][source 12]  
   
-The [‘Data Modelling In Power BI: Helpful Tips & Best Practices’ article][source 13] may be useful.  
-And [‘Model data with Power BI’ training][source 14] is also available.    
+The [‘Data Modelling In Power BI: Helpful Tips & Best Practices’ article][source 14] may be useful.  
+And [‘Model data with Power BI’ training][source 13] is also available.    
 
 
 

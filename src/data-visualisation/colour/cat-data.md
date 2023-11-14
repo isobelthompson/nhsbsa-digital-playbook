@@ -36,15 +36,15 @@ For categorical data, the following colours taken from the NHS identity guidelei
 |   NHS Light Blue   |  50%     |   #a0dbf3     |  
   
     
- ![Small block of colour showing 5 levels of the NHS Blue gradient from 100% tint to 10% tint and the words 'NHS Blue' beneath this](../images/blue-gradient.png)   ![Small block of colour showing 5 levels of the NHS Aqua Green gradient from 100% tint to 10% tint and the words 'NHS Aqua Green' beneath this](../images/aqua-gradient.png)    ![Small block of colour showing 5 levels of the NHS Pink gradient from 100% tint to 10% tint and the words 'NHS Pink' beneath this](../images/pink-gradient.png)  
- ![Small block of colour showing 5 levels of the NHS Orange gradient from 100% tint to 10% tint and the words 'NHS Orange' beneath this](../images/orange-gradient.png) ![Small block of colour showing 5 levels of the NHS Green gradient from 100% tint to 10% tint and the words 'NHS Green' beneath this](../images/green-gradient.png) ![Small block of colour showing 5 levels of the NHS Light Blue gradient from 100% tint to 10% tint and the words 'NHS Light Blue' beneath this](../images/light-blue-gradient.png)
+ ![Small block of colour showing 5 levels of the NHS Blue gradient from 100% tint to 20% tint and the words 'NHS Blue' beneath this](../images/blue-gradient.png)   ![Small block of colour showing 5 levels of the NHS Aqua Green gradient from 100% tint to 20% tint and the words 'NHS Aqua Green' beneath this](../images/aqua-gradient.png)    ![Small block of colour showing 5 levels of the NHS Pink gradient from 100% tint to 20% tint and the words 'NHS Pink' beneath this](../images/pink-gradient.png)  
+ ![Small block of colour showing 5 levels of the NHS Orange gradient from 100% tint to 20% tint and the words 'NHS Orange' beneath this](../images/orange-gradient.png) ![Small block of colour showing 5 levels of the NHS Green gradient from 100% tint to 20% tint and the words 'NHS Green' beneath this](../images/green-gradient.png) ![Small block of colour showing 5 levels of the NHS Light Blue gradient from 100% tint to 20% tint and the words 'NHS Light Blue' beneath this](../images/light-blue-gradient.png)
 
 
 Bear in mind that certain colours have certain meanings, and that use of colour is important.  
 Whilst over 4 categories and colours is not recommended, you will notice that after the first 6 colours, the colours are repeated at a 50% tint, still distinguishable to the user, and not adding in additional colours.  
 ::: details Source
  
-[NHS Identity guidelines][cat 2]  
+[NHS Identity guidelines; Using tints][cat 2] 
 
 :::
   
@@ -133,7 +133,7 @@ Use additional encoding methods such as symbols or positions to convey meaning:
 
 
 [cat 1]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/#section-5
-[cat 2]: https://www.england.nhs.uk/nhsidentity/identity-guidelines/colours/
+[cat 2]: https://www.england.nhs.uk/nhsidentity/identity-guidelines/colours/#:~:text=use%20of%20highlights.-,Using%20tints,-Tints%20are%20percentage
 [cat 3]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/#section-5
 [cat 4]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/#section-5
 [cat 5]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/#section-5

@@ -18,5 +18,5 @@ Please note, not all of the Microsoft Azure certifications are included on these
   
 
 
-[learn 1]: aka.ms/PPTrainCertDeck
+[learn 1]: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ITXR
 [learn 2]: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J5ea

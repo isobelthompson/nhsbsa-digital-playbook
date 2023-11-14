@@ -3,10 +3,11 @@ layout: article
 title: "Colour"
 description: "Colour guidance overview for the NHSBSA"
 status: DRAFT
-tags: [data-viz, data-viz-home, data-viz-colour]
+tags: [data-viz, data-viz-colour, data-viz-home]
 order:
   data-viz: 2
   data-viz-colour: 1
+  data-viz-home: 4
 related:
   tag: data-viz-colour
 ---
@@ -36,7 +37,7 @@ Contrast ratios should be checked to help with conditions such as low vision and
 - Use colour consistently; colours should be aligned consistency to the same variables (Example A).
 - Consider colour associations and personalisations; consider whether colours should be used to denote certain meanings. For example, if the NHS is being used as a comparison against another organisation, it might be appropriate to use NHS Blue.
 - Colour contrast; ensure there is enough of a contrast between the colours used. The Web Content Accessibility Guidelines (WCAG) which the UK accessibility legislation aligns to, require a 3 to 1 ratio for graphical elements and 4.5 to 1 ratio for text.
-* The WebAIM colour contrast checker may help: [WebAIM Contrast Checker 1][webaim 1] or [WebAIM Contrast Checker 2][webaim 2] 
+* The WebAIM colour contrast checker may help: [WebAIM Contrast Checker 1][webaim 1] or [this Acart contrast checker][contrast 2] 
 - Colour should not be used as the only way to communicate information. This is stated in accessibility success criterion 1.4.1. Ensure there is an alternative option for users to obtain the same information.  
 ::: details Source
  
@@ -100,7 +101,7 @@ To focus the readers attention, you can use a background of NHS Blue (005EB8), w
 [colours 2]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/#relevant-success-criterion-for-colours-in-charts
 [colours 3]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/#section-3
 [webaim 1]: https://webaim.org/resources/contrastchecker/
-[webaim 2]: https://contrastchecker.com/
+[contrast 2]: https://contrastchecker.com/
 [colours 4]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/#section-3
 [colours 5]: https://style.ons.gov.uk/data-visualisation/using-colours/using-colour-to-connect-information/
 [colours 6]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/#section-7

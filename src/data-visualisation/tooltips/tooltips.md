@@ -7,6 +7,7 @@ tags: [data-viz, data-viz-tooltips, data-viz-home]
 order:
     data-viz: 2
     data-viz-tooltips: 1
+    data-viz-home: 6
 ---
 ## What is a tooltip?  
   
