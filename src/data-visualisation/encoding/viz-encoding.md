@@ -42,17 +42,32 @@ Design -> user perception -> user experience
 These principles determine how people naturally perceive elements. If you understand how to use them, you can create a better user experience.  
 
 ![8 small images arranged in 4 rows of 2, each with a visual represntation of 1 of te gestalt principles. From left to right, beginning on the top row: proximity, closure, similarity, common region, continuity, figure and ground, symmetry, common fate](../images/gestalt.png)  
-
   
-|-------------------|---------------------------------------------------------------------------------------|
-| Proximity         | Elements which are close together seem to be a group                                  |
-| Closure           | The human brain ignores gaps and tries to understand the bigger context               |
-| Similarity        | Elements which look similar seem to be a group                                        |
-| Common region     | Elements which are close together seem to be a group                                  |
-| Continuity        | Elements which are ordered in a line or curve seem to be a group                      |
-| Figure and Ground | The human brain instinctively recognises if something is in the fore- or background   |
-| Symmetry          | Symmetric elements give the human brin the feeling that everything is ordered         |
-| Common fate       | Elements which move in the same direction seem to be a group                          |  
+
+Proximity
+: Elements which are close together seem to be a group
+
+Closure
+: The human brain ignores gaps and tries to understand the bigger context
+
+Similarity
+: Elements which look similar seem to be a group
+
+Common region
+: Elements which are close together seem to be a group
+
+Continuity
+: Elements which are ordered in a line or curve seem to be a group
+
+Figure and ground
+: The human brain instinctively recognises if something is in the fore- or background
+
+Symmetry
+: Symmetric elements give the human brin the feeling that everything is ordered
+
+Common fate
+: Elements which move in the same direction seem to be a group
+
   
     
 ## Including comparisons or context  
