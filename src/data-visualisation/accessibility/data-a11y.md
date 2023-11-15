@@ -27,7 +27,7 @@ Therefore, we need to deliver services which convey numbers plainly and in a way
   
 ## Best practice for data accessibility  
   
-Our internal Content Design Standards state how we should be presenting data. Some things we can use to help our users include:
+Our internal [Content Design Standards][data 5] state how we should be presenting data. Some things we can use to help our users include:
 - removing unnecessary numbers - always try to round values up to a whole number, and get rid of decimal places unless it’s money
 - leaving lots of space, so that numbers don’t jump around so much on the screen for people with dyscalculia 
 - involving people who struggle with numbers in the design process, from both within and outside the design team
@@ -51,3 +51,4 @@ Our internal Content Design Standards state how we should be presenting data. So
 [data 2]: https://designnotes.blog.gov.uk/2022/11/28/designing-for-people-with-dyscalculia-and-low-numeracy/
 [data 3]: https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats#accessible-print-publications
 [data 4]: https://www.england.nhs.uk/nhsidentity/identity-guidelines/fonts/
+[data 5]: https://nhsbsauk.sharepoint.com/sites/DigitalContentDesignTeam/SitePages/NHSBSA-digital-style-guide-and-standards.aspx

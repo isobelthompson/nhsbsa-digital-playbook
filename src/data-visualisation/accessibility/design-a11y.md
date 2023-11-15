@@ -10,7 +10,7 @@ order:
 ---
 ## Designing for accessibility  
 
-The UK Home Office created [Designing for accessibility posters.][home office posters] 
+The UK Home Office created ['Designing for accessibility' posters.][home office posters] 
 
 The posters include Dos and Don’ts for individuals:  
 - on the autistic spectrum
@@ -101,7 +101,7 @@ The following links may also be useful:
 [gov 1]: https://analysisfunction.civilservice.gov.uk/policy-store/making-spreadsheets-accessible-a-brief-checklist-of-the-basics/
 [gov 2]: https://analysisfunction.civilservice.gov.uk/policy-store/releasing-statistics-in-spreadsheets/
 [microsoft]: https://support.microsoft.com/en-us/office/make-your-excel-documents-accessible-to-people-with-disabilities-6cc05fc5-1314-48b5-8eb3-683e49b3e593
-[numbers 1]: https://nhsbsauk.sharepoint.com/sites/digital-and-online-team/SitePages/Content-design.aspx
+[numbers 1]: https://nhsbsauk.sharepoint.com/sites/DigitalContentDesignTeam/SitePages/NHSBSA-digital-style-guide-and-standards.aspx
 [colour guide]: https://nhsbsauk.sharepoint.com/:w:/s/DataWarehouse/EWnzcrx3hS5Ps6KWq07Bc4sBuz2WdMKfQVGR3Q39JEzE8A?e=iiBhv6
 [webaim 1]: https://webaim.org/resources/contrastchecker/
 [webaim 2]: https://contrastchecker.com/

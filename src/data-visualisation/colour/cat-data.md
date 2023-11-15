@@ -99,8 +99,11 @@ If you are using red to signal 'warning' or 'caution', and green to signal 'appr
 Use additional encoding methods such as symbols or positions to convey meaning:  
 
  ![Image showing examples of using RAG status combined with symbols such as tick marks, crosses and exclamation marks to convey information](../images/RAG-symbols.png)
-  
-[Source - ][cat 8]  
+
+::: details Source
+
+[Five ways to... Design for red-green colour-blindness ][cat 8]
+:::
 
 
 ### ONS accessibility tested colours  
@@ -139,4 +142,5 @@ Use additional encoding methods such as symbols or positions to convey meaning:
 [cat 5]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/#section-5
 [cat 6]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/
 [cat 7]: https://www.colourblindawareness.org/colour-blindness/
+[cat 8]: https://visualisingdata.com/2019/08/five-ways-to-design-for-red-green-colour-blindness/
 [cat 9]: https://service-manual.ons.gov.uk/design-system/foundations/colours

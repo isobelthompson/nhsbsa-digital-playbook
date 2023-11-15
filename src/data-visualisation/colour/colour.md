@@ -52,7 +52,10 @@ Example A: Using colour to connect information. Note how ‘Services’ uses a d
   
 ![5 charts including a pie chart, 2 bar charts and 2 line charts](../colour/images/charts.png)  
  
-[Source - ][colours 5]  
+::: details Source
+
+[How to Choose Colors for Data Visualizations ][colours 5]  
+:::
 
 
 ## Focus charts  
@@ -103,7 +106,7 @@ To focus the readers attention, you can use a background of NHS Blue (005EB8), w
 [webaim 1]: https://webaim.org/resources/contrastchecker/
 [contrast 2]: https://contrastchecker.com/
 [colours 4]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/#section-3
-[colours 5]: https://style.ons.gov.uk/data-visualisation/using-colours/using-colour-to-connect-information/
+[colours 5]: https://chartio.com/learn/charts/how-to-choose-colors-data-visualization/#be-consistent-with-color-across-charts
 [colours 6]: https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-colours-in-charts/#section-7
 [colours 7]: https://service-manual.nhs.uk/design-system/styles/colour  
 [colours 8]: https://service-manual.nhs.uk/design-system/styles/colour

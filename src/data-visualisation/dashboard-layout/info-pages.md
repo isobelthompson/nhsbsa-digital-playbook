@@ -132,6 +132,6 @@ It includes the following:
 
 
 [info 0]: https://bsa2468.atlassian.net/wiki/spaces/CoP/pages/1559396709/STAGE+3+-+Accessibility+Statements
-[info 1]: https://nhsbsauk.sharepoint.com/sites/digital-and-online-team/SitePages/Content-Design-Style-Guide.aspx
+[info 1]: https://nhsbsauk.sharepoint.com/sites/DigitalContentDesignTeam/SitePages/NHSBSA-digital-style-guide-and-standards.aspx
 [info 2]: https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats#accessible-print-publications
 [info 3]:  https://www.england.nhs.uk/nhsidentity/identity-guidelines/fonts/
