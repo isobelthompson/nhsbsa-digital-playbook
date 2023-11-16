@@ -20,7 +20,7 @@ There are aspects we can implement to help enable users to read a table effectiv
 - The less space colours fill in, the brighter and more different they should be to be distinguishable; this is in order to give adequate contrast  
       
 **2. Align the content appropriately.**
-- A table should always contain headers 
+- A table should always contain headers. The background of these headers should be distinguishable from the main body of table: a NHS Blue (#005EB8) background with white titles should be used 
 - Numbers should be aligned to the right
 - Text should be aligned to the left
 - Times series should read left to right
