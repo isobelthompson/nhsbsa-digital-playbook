@@ -7,7 +7,7 @@ tags: [data-viz, data-viz-colour, data-viz-home]
 order:
   data-viz: 2
   data-viz-colour: 1
-  data-viz-home: 4
+  data-viz-home: 5
 related:
   tag: data-viz-colour
 ---
