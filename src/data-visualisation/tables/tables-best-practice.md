@@ -26,7 +26,8 @@ There are aspects we can implement to help enable users to read a table effectiv
 - Times series should read left to right
 - Categorical values should be displayed in columns to the left of quantitative values
 - Calculated values should be placed to the right of the values from which they are derived
-- Values to be compared should be placed next to each other  
+- Values to be compared should be placed next to each other
+- It is possible to embed linked footnotes into a table. However, jumping from one section of text to another can be disruptive. It is better to put the information at the point of need whenever possible. It is best practice to place footnotes in the table title, column headings or row labels. Avoid placing them in cells with data as it affects the alignment of the figures [Source - Examples of tables and charts][table 1]
       
 **3. Consider condensing the information included.**
 - Use icons and abbreviations
@@ -71,10 +72,11 @@ There are aspects we can implement to help enable users to read a table effectiv
   
 ::: details Source
 
-[What to consider when creating tables][table 1]
+[What to consider when creating tables][table 2]
 
 :::  
   
 ## Articles in this section
 
-[table 1]: https://blog.datawrapper.de/guide-what-to-consider-when-creating-tables/
+[table 1]: https://www.gov.uk/government/publications/examples-of-visual-content-to-use-on-govuk/examples-of-visual-content-to-use-on-govuk#tables
+[table 2]: https://blog.datawrapper.de/guide-what-to-consider-when-creating-tables/
