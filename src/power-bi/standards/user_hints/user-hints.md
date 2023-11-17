@@ -66,7 +66,7 @@ Microsoft have [guidance for drill downs][hint 3] available online.
 ## Tooltips  
   
 A tooltip is a box that appears when hovered over to provide the user with more information. To use a tooltip, hover over data visualisations. Please note, these visualisations may have bespoke tooltips in which the developer has customised or amended the default tooltip, this customised tooltip could show as a different structure of detail, or as a visualisation itself.  
-See the playbook [tooltips page](../data-visualisation/tooltips/tooltips) for more detail.
+See the playbook [tooltips page](../../../../data-visualisation/tooltips/) for more detail.
   
   
 ## Switching between visualisation types  

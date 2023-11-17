@@ -58,6 +58,7 @@ Think about alternatives you could use – a bulleted list, a chart or content u
 
 :::
 
+[Back to Best practice for tables](../tables-best-practice/)
 
 [table 1]: https://blog.datawrapper.de/guide-what-to-consider-when-creating-tables/
 [table 2]: https://nhsbsauk.sharepoint.com/sites/DigitalContentDesignTeam/SitePages/NHSBSA-digital-style-guide-and-standards.aspx#tables

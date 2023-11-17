@@ -3,7 +3,7 @@ layout: article
 title: "Pie and donut charts"
 description: "Guidance for using pie and donut charts at the NHSBSA"
 status: DRAFT
-tags: [data-viz, data-viz-donut data-viz-home]
+tags: [data-viz, data-viz-donut, data-viz-home]
 order:
     data-viz: 2
     data-viz-donut: 1
@@ -40,7 +40,7 @@ Also, donut charts are more space-efficient than pie charts because the blank sp
   
 ## Best Practice  
   
-ONS have some best practice guidance on pie charts, and a check list to follow (https://analysisfunction.civilservice.gov.uk/policy-store/charts-a-checklist).  
+ONS have some best practice guidance on pie charts, and [a check list to follow](https://analysisfunction.civilservice.gov.uk/policy-store/charts-a-checklist).  
   
 - **Only use pie charts when the categories form part of a whole.** If the categories do not add up to a distinct ‘whole’, use a different chart
 - **Do not use pie charts when two or more categories are a similar size.** In this situation it is better to use a bar chart
