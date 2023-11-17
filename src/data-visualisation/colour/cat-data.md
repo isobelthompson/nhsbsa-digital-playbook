@@ -130,7 +130,7 @@ Use additional encoding methods such as symbols or positions to convey meaning:
 :::   
 
 
-[Back to Colours home](../colour)
+[Back to Colour](../)
 
 
 

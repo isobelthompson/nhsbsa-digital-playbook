@@ -64,7 +64,7 @@ For an indication of colour schemes and combinations using binary, qualitative, 
 :::   
 
 
-[Back to Colours home](../colour.md)  
+[Back to Colour](../)  
   
   
 

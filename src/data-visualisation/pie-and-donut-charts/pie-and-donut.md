@@ -7,7 +7,7 @@ tags: [data-viz, data-viz-donut data-viz-home]
 order:
     data-viz: 2
     data-viz-donut: 1
-    data-viz-home: 1
+    data-viz-home: 6
 ---
 ## Pie charts  
   

@@ -42,7 +42,7 @@ Our internal [Content Design Standards][data 5] state how we should be presentin
 - always following the appropriate hierarchy of titles in a page, this helps users of a screen reader navigate content quickly and easily  
   
     
-[Back to Accessibility home](../a11y)
+[Back to Accessibility home](../a11y/)
 
 
 

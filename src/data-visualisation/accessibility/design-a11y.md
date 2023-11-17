@@ -93,7 +93,7 @@ The following links may also be useful:
 - [Make your Excel documents accessible to people with disabilities - Microsoft Support][microsoft]  
   
     
-[Back to Accessibility home](../accessibility/a11y.md)
+[Back to Accessibility home](../a11y/)
 
 
 

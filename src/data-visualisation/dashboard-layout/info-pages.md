@@ -112,7 +112,7 @@ It includes the following:
     
 ### How to use example page  
   
-The How to use page is relevant especially for users who have limited technological literacy and may not be as familiar with the reporting software used. It aims to help guide users, limit support needed, maximise usage and optimise intake of the dashboard and information shown. Please see the [Power BI User Hints standards](../../power-bi/standards/user_hints/user-hints.md) as an example of information to include on a How to use page.  
+The How to use page is relevant especially for users who have limited technological literacy and may not be as familiar with the reporting software used. It aims to help guide users, limit support needed, maximise usage and optimise intake of the dashboard and information shown. Please see the [Power BI User Hints standards](../../../power-bi/standards/user_hints/user-hints/) as an example of information to include on a How to use page.  
   
 It includes the following:  
 - Dashboard functionality to give details on functions within the dashboard, for example, users may not be familiar with drill down functionality and how to access it, therefore might miss this feature and other insights if not prompted to look and use this function.

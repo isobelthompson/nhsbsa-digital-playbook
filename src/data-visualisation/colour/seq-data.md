@@ -24,7 +24,7 @@ Sequential data should use NHS Blue (#005EB8) as our primary colour to be used. 
 Due to the problems with contrast ratios in this palette, there is [specific advice for different chart types][seq 2].  
 
 
-[Back to Colours home](../colour/colour.md)  
+[Back to Colour](../) 
   
   
 [seq 1]: https://chartio.com/learn/charts/how-to-choose-colors-data-visualization/
