@@ -181,6 +181,8 @@ Some examples of charts available:
   
 ![Six sections stacked on top of eachother, from top to bottom: 'Comparison', 'Correlation', 'Part-to-whole and hierarchical', 'data over time (temporal)', 'Distribution', 'Geospatial and other'. Under each heading is a series of square boxes, with each box containing a small visual depiction of a different chart type that fits within that category. These are listed later in this section.](../images/chart-eg.png)  
 
+The charts mentioned in the image above are listed below for clarity.  
+
 **Comparison**  
 
 - bar chart
@@ -249,7 +251,7 @@ Some examples of charts available:
 - candelstick chart
 - gantt chart
 - barcode chart
-- ohlc chart  
+- OHLC chart  
   
 **Distribution**  
   
