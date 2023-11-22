@@ -7,7 +7,7 @@ tags: [data-viz, data-viz-tables, data-viz-home]
 order:
     data-viz: 2
     data-viz-tables: 1
-    data-viz-home: 4
+    data-viz-home: 10
 related: 
     tag: data-viz-tables
 ---
@@ -51,22 +51,22 @@ There are aspects we can implement to help enable users to read a table effectiv
 - Pagination is not as easily accessible for a screen reader
 - It also runs the risk of all content not being seen to users, meaning users may miss out on key details, or they may have assumed there is no remaining data left to see  
       
-**8. Focus attention where necessary.**
+**8. [Focus attention where necessary](../../decluttering/).**
 - Separate (using a bold line) or highlight columns or rows that readers shouldn’t miss, such as an overall total
 - Group summaries should be visually distinct
 - Use bold, italics or colour only to group or highlight data
-- Colour can be used to focus attention, and to help the user navigate the table
+- [Colour](../../colour/) can be used to focus attention, and to help the user navigate the table
 - Consider using different colours for different categories to help navigation
 - Consider colouring or using symbols for values, such as the highest and lowest values in a column
 - When colouring text use bright colours such as NHS blue (#005EB8)
 - When colouring whole cells, rows or columns, choose a pastel background such as a 20% tint of the NHS blue (#B8DCFF) (#005EB8)  
       
-**9. Use filters and sorts to help the user**
+**9. [Use filters and sorts to help the user](../../filters/).**
 - Consider making your table filterable, searchable and sortable
 - This should be easily accessible to the user, positioned in the top right above the table
 - Consider how your table will be sorted  
       
-**10. Add visualisations where appropriate.**
+**10. [Add suitable visualisations where appropriate](../../charts/chart-types/).**
 - Bar charts, heatmaps and sparklines pull focus
 - To show comparison and general trends
   

@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Colour"
-description: "Colour guidance overview for the NHSBSA"
+description: "Colour guidance for data visualisations at the NHSBSA"
 status: DRAFT
 tags: [data-viz, data-viz-colour, data-viz-home]
 order:

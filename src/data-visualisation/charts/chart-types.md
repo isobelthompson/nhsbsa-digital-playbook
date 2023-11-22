@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Chart types"
-description: "Standards and guidance for choosing appropriate chart types, at the NHSBSA"
+description: "Standards and guidance for choosing appropriate chart types"
 status: DRAFT
 tags: [data-viz, data-viz-charts, data-viz-home]
 order:
@@ -17,7 +17,7 @@ Choosing an appropriate chart type is key in ensuring the end user is able to un
   
 In this section we will go through [four categories of chart types][chart 1]: comparison, composition, relationship and distribution charts.  
   
-The [four main questions][chart 2] to help you decide which chatr type to use are:  
+The [four main questions][chart 2] to help you decide which chart type to use are:  
 - Do you want to display **composition** of something?
 - Do you want to **compare** values or show differences over time?
 - Do you want to better understand the **relationship** between two or more variables?
@@ -66,7 +66,7 @@ If you’re using a bar chart:
 - make sure the data is sorted or ordered appropriately, for example, from A to Z, high to low etc
 - leave small gaps between the bars
 - try to use NHS Blue (#005EB8) for bars which do not need groupings, otherwise use the Colour guidance for multiple groupings across bars
-- ensure the NHS Colour guidance is used to ensure that the order of colours used are distinct
+- ensure the [NHS Colour guidance][chart 8] is used to ensure that the order of colours used are distinct
 - for multiple bars, where you need to pull focus onto one of the bars, use NHS Blue (#005EB8) against a light grey NHS Grey 3 (#AEB7BD)  
   
 If you’re using a **clustered** bar chart:
@@ -92,7 +92,7 @@ Some common composition visualisations used are:
 
 If you’re using a stacked bar chart:
 - make sure the order and orientation of bar chart legends match how categories are presented and state this above the chart
-- ensure the NHS Colour guidance is used to ensure that the order of colours used are distinct
+- ensure the [NHS Colour guidance][chart 8] is used to ensure that the order of colours used are distinct
 - avoid stacked bar charts when categories have negative values. When negative values are used in stacked bar charts they can be difficult to understand  
   
 ::: details Source
@@ -105,7 +105,7 @@ If you’re using a stacked bar chart:
   
 If you’re using a pie chart:
 - pie charts should be used to show part-to-whole comparisons
-- ensure the NHS Colour guidance is used to ensure that the order of colours used are distinct
+- ensure the [NHS Colour guidance][chart 8] is used to ensure that the order of colours used are distinct
 - segments should be directly labelled
 - refer to the [Pie and donut charts guidance](../../pie-and-donut-charts/pie-and-donut/) for further details  
   
@@ -121,8 +121,8 @@ If you’re using a pie chart:
 Distribution visualisations are used to visualise the distribution of data, useful especially for ordered data ranging from lowest to highest. The distribution is analysed and used for trend analysis to gain meaningful insights.  
   
 Some common distribution visualisations used are:
-- Scatter charts
-- Histogram  
+- scatter charts
+- histogram  
   
 ![The 'Distribution' branches of the tree diagram from the 'Choosing an appropriate chart type' section. 'Distribution' is written at the base with a line splitting into two parts. The left line is labelled 'Single variable' and the right line is labelled 'Two variables'. The left branch splits into 'Few data points' on the left, with an example of 'Bar histogram', and 'Many data points' on the right, with an example of 'Line histogram'. The 'Two variables' branch goes directly to an example of 'Scatter plot'.](../images/distribution.png)  
     
@@ -131,7 +131,7 @@ Some common distribution visualisations used are:
   
 If you’re using a scatter chart:
 - use four or less categories for comparison
-- use visual encoding, such as symbols or size where necessary, and clearly spell out what has been used to the user
+- use [visual encoding](../../encoding/viz-encoding/), such as symbols or size where necessary, and clearly spell out what has been used to the user
 - ensure a legend is available  
   
   
@@ -140,8 +140,8 @@ If you’re using a scatter chart:
 Relationship visualisations are used to highlight a relationship or correlation between variables. Multiple variables and [visual encoding](../../encoding/viz-encoding/) practices can be used to add additional details, such as symbols on a scatter chart to demonstrate multiple groupings.  
   
 Some common relationship visualisations used are:
-- Scatter charts
-- Cluster diagrams  
+- scatter charts
+- cluster diagrams  
   
 ![The 'Relationship' branches of the tree diagram from the 'Choosing an appropriate chart type' section. 'Relationship' is written at the base with a line splitting into two parts. The left line is labelled 'Two varibales' and shows an example of 'Scatter plot'. The right line is labelled 'Three variables' and shows an example of 'Scatter plot bubble size'.](../images/relationship.png)  
   
@@ -151,9 +151,9 @@ Some common relationship visualisations used are:
 Geospatial visualisations demonstrate distribution across a set parameter, for example, a map.  
   
 Some common geospatial visualisations used are:
-- Geographic heatmap
-- Choropleth map
-- Tile map  
+- geographic heatmap
+- choropleth map
+- tile map  
   
   
 ### Infographics  
@@ -291,7 +291,7 @@ Some key questions to ask yourself when deciding which to use are:
 - Is the trend or shape of the values important?
 - Does the relationship between multiple values need to be shown?  
   
-If the answers to the first four questions are Yes, a table might be most suitable.
+If the answers to the first four questions are 'Yes', a table might be most suitable.
 
 
 
@@ -307,3 +307,4 @@ If the answers to the first four questions are Yes, a table might be most suitab
 [chart 5]: https://analysisfunction.civilservice.gov.uk/policy-store/charts-a-checklist/
 [chart 6]: https://analysisfunction.civilservice.gov.uk/policy-store/charts-a-checklist/
 [chart 7]: https://bootcamp.uxdesign.cc/best-practices-for-designing-infographics-16d622ca8e54
+[chart 8]: https://service-manual.nhs.uk/design-system/styles/colour

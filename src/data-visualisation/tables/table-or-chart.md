@@ -21,7 +21,7 @@ Some key questions to ask yourself when deciding which to use are:
   
 Although this guidance talks about the comparison of tables to charts, it is important to note that for accessibility purposes it is useful to include an option for the user to switch between a table and chart.  
   
-There are several occasions where you may wish to use a table. For example, use tables  
+There are several occasions where you may wish to use a table. For example, use tables:  
   
 - **if you want to enable readers to look up specific information.** 
     - Readers can use the table to pinpoint information of interest

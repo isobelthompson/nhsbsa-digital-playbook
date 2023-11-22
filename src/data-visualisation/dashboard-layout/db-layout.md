@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Report and dashboard layout"
-description: "Report and dashboard standards at the NHSBSA"
+description: "Layout standards for reports and dashboards at the NHSBSA"
 status: DRAFT
 tags: [data-viz, data-viz-layout, data-viz-home]
 order:

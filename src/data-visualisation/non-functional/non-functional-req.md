@@ -1,13 +1,13 @@
 ---
 layout: article
-title: "Dashboard non-functional requirements"
-description: "Guidance for drafting and monitoring non-functional requirements at the NHSBSA"
+title: "Dashboard non-functional requirements (NFRs)"
+description: "Guidance for drafting and monitoring non-functional requirements"
 status: DRAFT
 tags: [data-viz, data-viz-non-function, data-viz-home]
 order:
     data-viz: 2
     data-viz-non-function: 1
-    data-viz-home: 1
+    data-viz-home: 6
 ---
 ## Non-functional requirements  
   

@@ -1,13 +1,14 @@
 ---
 layout: article
-title: "Power BI standards"
-description: "Standards for using Power BI at the NHSBSA"
+title: "Power BI guidance"
+description: "Guidance for using Power BI at the NHSBSA, and details of certifications available"
 status: DRAFT
-tags: [home, power-bi, data-viz, pbi-home]
+tags: [home, power-bi, data-viz, data-viz-home, pbi-home]
 order:
   home: 70
   power-bi: 1
   data-viz: 1
+  data-viz-home: 4
   pbi-home: 1
 related:
   tag: pbi-home

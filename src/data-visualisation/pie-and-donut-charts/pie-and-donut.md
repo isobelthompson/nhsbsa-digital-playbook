@@ -7,13 +7,13 @@ tags: [data-viz, data-viz-donut, data-viz-home]
 order:
     data-viz: 2
     data-viz-donut: 1
-    data-viz-home: 6
+    data-viz-home: 9
 ---
 ## Pie charts  
   
 Pie charts are used to show part-to-whole relationships. Typically, bar charts and pie charts are used for this.  
   
-Pie charts, are sometimes criticised for focusing on the relative sizes of the pieces to one another and to the chart as a whole, giving no indication of changes as a whole when compared to other pie charts.  
+Pie charts are sometimes criticised for focusing on the relative sizes of the pieces to one another, but not clearly highlighting changes as a whole when compared to other pie charts.  
   
 ::: details Source
 
@@ -46,9 +46,9 @@ ONS have some best practice guidance on pie charts, and [a check list to follow]
 - **Do not use pie charts when two or more categories are a similar size.** In this situation it is better to use a bar chart
 - **Do not use pie charts with more than 5 categories.** If your chart has more than 5 categories, consider combining some of the categories or using a different type of chart
 - **Rank categories by size with the first at the 12 o’clock position.** Ranking the categories in this way makes the chart easier to interpret. It also makes it easier to identify the dominant categories
-- **Label pie chart categories directly.** Legends and keys rely on users matching labels to categories using colour alone. This fails accessibility success criterion 1.4.1 Use of Colour.  
+- **Label pie chart categories directly.** Legends and keys rely on users matching labels to categories using colour alone. This fails [WCAG accessibility success criterion 1.4.1 Use of Colour][pie 4].  
   
-Pie charts need to be used appropriately. To do this, ensure they
+Pie charts need to be used appropriately. To do this, ensure they:
 - **are well-formatted.** No 3D, exploding slices, leader lines, or legends
 - **display nominal variables.** Ordinal variables don’t belong in a pie chart
 - **contain positive numbers.** A mix of positive and negative numbers inside the same pie chart, doesn’t make any sense
@@ -65,3 +65,4 @@ Pie charts need to be used appropriately. To do this, ensure they
 [pie 1]: https://style.ons.gov.uk/data-visualisation/part-to-whole/
 [pie 2]: https://datavizcatalogue.com/methods/donut_chart.html
 [pie 3]: https://depictdatastudio.com/when-pie-charts-are-okay-seriously-guidelines-for-using-pie-and-donut-charts/
+[pie 4]: https://www.w3.org/WAI/WCAG21/Understanding/use-of-color.html

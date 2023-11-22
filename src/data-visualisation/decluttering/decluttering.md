@@ -7,31 +7,31 @@ tags: [data-viz, data-viz-declutter, data-viz-home]
 order:
     data-viz: 2
     data-viz-declutter: 1
-    data-viz-home: 1
+    data-viz-home: 7
 ---
 ## Importance of decluttering  
   
 To ensure users can quickly make effective and informed decisions, it is important to give the user all information necessary, without providing too much to distract the user.  
   
 The purpose of decluttering is to:
-- Save the user time
-- Provide more time to make meaningful decisions
-- Provide less barriers to using a visualisation
-- Create less confusion
-- Create more purposeful chart/focus attention
-- To help those with sight difficulties  
+- save the user time
+- provide more time to make meaningful decisions
+- provide less barriers to using a visualisation
+- create less confusion
+- create more purposeful chart/focus attention
+- to help those with sight difficulties  
   
 When a user first sees a chart, their focus will be drawn to particular elements. As developers, we need to ensure that the users eyes are drawn to the most important elements.  
   
 ## How to declutter  
   
-Some steps that you can take to declutter a chart:  
-- Remove heavy borders and gridlines. Any unnecessary ink on the page should be removed
-- Data markers, without a purpose, such as dots on a line chart should be removed
-- Any redundant data can be removed. This includes improving the x and y axis labels to be more concise
-- The legend should be placed as close to a line chart as possible
-- Consider the accuracy needed. For example, would the user need to see each decimal place of a figure, or would rounding a value be more effective
-- You can also pull focus onto certain lines/bars by highlighting the most important element. For example, by using NHS Blue (#005EB8) against a light grey NHS Grey 3 (#AEB7BD). Please refer to the Pulling Focus guidance below for more details.  
+Some steps that you can take to declutter a chart are:  
+- removing heavy borders and gridlines. Any unnecessary ink on the page should be removed
+- removing data markers without a purpose, such as dots on a line chart
+- removing any redundant data. This includes improving the x and y axis labels to be more concise
+- placing the legend as close to a line chart as possible
+- considering the accuracy needed. For example, would the user need to see each decimal place of a figure, or would rounding a value be more effective
+- pulling focus onto certain lines/bars by highlighting the most important element. For example, by using NHS Blue (#005EB8) against a light grey NHS Grey 3 (#AEB7BD). 
 
 ::: details Source
 
@@ -48,7 +48,7 @@ Using methods to focus the user’s attention is a quick way of ensuring the use
   
 There are many methods you can use to pull focus:  
 - [Use visual encoding](../encoding/viz-encoding/) such as size and shape to highlight any necessary items
-- Use colour and width, for example, where you need to pull focus onto a specific variable in a line chart, use a thicker NHS Blue (#005EB8) line, with the other lines set as NHS Grey 3 (#AEB7BD), this will ensure the other lines fade further into the background with the most dominant and useful line standing out
+- [Use colour](../colour/) and width, for example, where you need to pull focus onto a specific variable in a line chart, use a thicker NHS Blue (#005EB8) line, with the other lines set as NHS Grey 3 (#AEB7BD), this will ensure the other lines fade further into the background with the most dominant and useful line standing out
 - Use markers or event lines to highlight certain values, or important and influencing aspects. A good example of this is adding a faded section in NHS Grey 4 (#D8DDE0) to denote forecasting, or adding a label to an individual value at a point in time  
   
 ::: details Source

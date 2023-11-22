@@ -7,7 +7,7 @@ tags: [data-viz, data-viz-filters, data-viz-home]
 order:
     data-viz: 2
     data-viz-filters: 1
-    data-viz-home: 6
+    data-viz-home: 8
 ---
 ## Filter purpose  
   

@@ -1,13 +1,13 @@
 ---
 layout: article
 title: "Visual encoding"
-description: "Standards for visual encoding at the NHSBSA"
+description: "Guidance for visual encoding including pre-attentive attributes and Gestalt principles"
 status: DRAFT
 tags: [data-viz, data-viz-encode, data-viz-home]
 order:
     data-viz: 2
     data-viz-encode: 1
-    data-viz-home: 3
+    data-viz-home: 12
 ---
 ## Visual encoding  
   
@@ -24,6 +24,8 @@ Some attributes are processed better than others. For example, we don’t proces
   
 Some examples of pre-attentive attributes:  
   
+Length, width, orientation, size, shape, enclosure, position, grouping, colour hue, and colour intensity.  
+  
 ![10 square boxes arranged in 2 rows of 5, each with a visual representation of 1 pre-attentive attrbute. From left to right, beginning on the top row: length, width, orientation, size, shape, enclosure, position, grouping, colour hue, colour intensity](../images/pre-atten.png)  
   
 ::: details Source
@@ -37,7 +39,7 @@ Some examples of pre-attentive attributes:
 The Gestalt principles can be used by designers to organise content on websites and data visualisation products so it is aesthetically pleasing and easy to understand.
 If the design of the dashboard is considered, this help aide the user’s perception, and creates a smoother user experience as a result.  
   
-Design -> user perception -> user experience  
+Design &rarr; user perception &rarr; user experience  
   
 These principles determine how people naturally perceive elements. If you understand how to use them, you can create a better user experience.  
 
@@ -74,7 +76,7 @@ Common fate
   
 Comparisons are useful for the user to give context. For example, a year-on-year comparison. There are different methods of comparisons or adding context such as accompanying text, trend lines, colour and target lines.  
   
-To give context to a user, and help aide the user’s understanding of the data being shown, useful pages such as an ‘About page’ or a Glossary might be useful to include in your dashboard. Please refer to the [Layout of a dashboard guidance](../../dashboard-layout/db-layout/) for further information on what these pages can contain.  
+To give context to a user, and help aide the user’s understanding of the data being shown, useful pages such as information pages including a glossary might be useful to include in your dashboard. Please refer to the [Layout of a dashboard guidance](../../dashboard-layout/db-layout/) for further information on what these pages can contain.  
   
   
 ## How to use visual encoding  
