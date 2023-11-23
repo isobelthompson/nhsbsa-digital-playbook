@@ -25,7 +25,7 @@ To ensure our charts are usable to all users, colours must be used with enough c
  
 [Success criterion for colours in charts][colours 2]
 :::  
-Contrast ratios should be checked to help with conditions such as low vision and colour blindness. Keeping a 3 to 1 contrast ratio between adjacent colours (as set out in success criterion 1.4.11) is important for people with low vision.  
+Contrast ratios should be checked to help with conditions such as low vision and colour blindness. Keeping a 3 to 1 contrast ratio between adjacent colours (as set out in WCAG accessibility success criterion 1.4.11) is important for people with low vision.  
 ::: details Source
  
 [What to consider when using colour in charts ][colours 3]
@@ -62,6 +62,15 @@ Example A: Using colour to connect information. Note how ‘Services’ uses a d
 
 Focus charts are charts which use colour to highlight specific elements to help users understand the information.  
 The primary colour NHS Blue (#005EB8) should be used to pull focus, against NHS Grey 3 (#aeb7bd).  
+
+#005EB8:  
+
+![Rectangle of block colour in the shade #005EB8 NHS Blue, strong blue](../images/hex-nhs-blue.png)  
+
+#aeb7bd:  
+
+![Rectangle of block colour in the shade #aeb7bd NHS Grey 3, grayish blue](../images/hex-nhs-grey3.png)  
+
   
 ::: details Source
  
@@ -75,7 +84,16 @@ The primary colour NHS Blue (#005EB8) should be used to pull focus, against NHS 
 The primary text colour to use is: #212b32
 This should be used across the majority of headers and body of text.
 The secondary text colour to use is: #4c6272
-This can be used for things such as a search box, or secondary content such as the heading of a links section.
+This can be used for things such as a search box, or secondary content such as the heading of a links section.  
+  
+#212b32:  
+  
+![Rectangle of block colour in the shade #212b32, very dark (mostly black) blue](../images/hex-212b32.png)  
+  
+#4c6272:  
+  
+![Rectangle of block colour in the shade #4c6272, very dark grayish blue](../images/hex-4c6272.png)  
+  
   
 ::: details Source
  

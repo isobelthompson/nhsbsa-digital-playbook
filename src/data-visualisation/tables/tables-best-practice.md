@@ -45,7 +45,12 @@ There are aspects we can implement to help enable users to read a table effectiv
 **6. Consider highlighting tables with many rows.** 
 - If you can’t avoid many columns, stripe every second row with a light grey, such as NHS Grey 5 (#f0f4f5). This helps aide the user’s gaze
 - Consider the ink to page ratio. Do not use this unnecessarily  
-      
+
+#f0f4f5:  
+
+![Rectangle of block colour in the shade #f0f4f5 NHS Grey 5, light grayish cyan](hex-nhs-grey-5.png)  
+  
+    
 **7. Limit your use of pagination.**
 - Only use pagination if necessary
 - Pagination is not as easily accessible for a screen reader
@@ -59,8 +64,13 @@ There are aspects we can implement to help enable users to read a table effectiv
 - Consider using different colours for different categories to help navigation
 - Consider colouring or using symbols for values, such as the highest and lowest values in a column
 - When colouring text use bright colours such as NHS blue (#005EB8)
-- When colouring whole cells, rows or columns, choose a pastel background such as a 20% tint of the NHS blue (#B8DCFF) (#005EB8)  
-      
+- When colouring whole cells, rows or columns, choose a pastel background such as a 20% tint of the NHS blue (#B8DCFF)  
+
+#B8DCFF:  
+
+![Rectangle of block colour in the shade #B8DCFF NHS Blue 20% tint, pale blue](hex-20-nhs-blue.png)  
+  
+    
 **9. [Use filters and sorts to help the user](../../filters/).**
 - Consider making your table filterable, searchable and sortable
 - This should be easily accessible to the user, positioned in the top right above the table
