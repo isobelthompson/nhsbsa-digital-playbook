@@ -48,7 +48,7 @@ There are aspects we can implement to help enable users to read a table effectiv
 
 #f0f4f5:  
 
-![Rectangle of block colour in the shade #f0f4f5 NHS Grey 5, light grayish cyan](hex-nhs-grey-5.png)  
+![Rectangle of block colour in the shade #f0f4f5 NHS Grey 5, light grayish cyan](../hex-nhs-grey-5.png)  
   
     
 **7. Limit your use of pagination.**
@@ -68,7 +68,7 @@ There are aspects we can implement to help enable users to read a table effectiv
 
 #B8DCFF:  
 
-![Rectangle of block colour in the shade #B8DCFF NHS Blue 20% tint, pale blue](hex-20-nhs-blue.png)  
+![Rectangle of block colour in the shade #B8DCFF NHS Blue 20% tint, pale blue](../hex-20-nhs-blue.png)  
   
     
 **9. [Use filters and sorts to help the user](../../filters/).**

@@ -14,6 +14,8 @@ See the [NHS Identity Guidelines Colours pages][pc 1] for more detail.
   
 Use a plain background, NHS Grey 5 (#f0f4f5) should be used.  
 
+#f0f4f5:  
+  
 ![Rectangle of block colour in the shade #f0f4f5 NHS Grey 5, light grayish cyan](../images/hex-f0f4f5.png)  
   
 NHS White (#ffffff) is used to make important information stand out and for alternating backgrounds, for example on the NHS website home page.  
