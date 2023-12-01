@@ -3,11 +3,14 @@ layout: article
 title: "Suppression of values"
 description: "Standards around the suppression of values with Power BI"
 status: DRAFT
-tags: [power-bi, pbi-val-supp, pbi-home]
+tags: [power-bi, pbi-val-supp, pbi-home, pbi-standards]
 order:
     power-bi: 2
     pbi-val-supp: 1
     pbi-home: 6
+    pbi-standards: 2
+related:
+  tag: pbi-standards
 ---
 ## Statistical Disclosure Control (SDC) Protocol  
   
@@ -75,7 +78,10 @@ Some text to use as the disclaimer:
   
 ![Alt text](../images/value-image9.png)  
   
-Check and test the values against the raw data and the SDC Protocol should now be implemented within your chart. To reduce overhead, you can duplicate this chart and amend the measures/values where needed if the SDC Protocol is needed to be added to multiple charts.
+Check and test the values against the raw data and the SDC Protocol should now be implemented within your chart. To reduce overhead, you can duplicate this chart and amend the measures/values where needed if the SDC Protocol is needed to be added to multiple charts.  
+  
+    
+## Power BI Standards
 
 
 

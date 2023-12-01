@@ -3,11 +3,14 @@ layout: article
 title: "Data sources"
 description: "Overview of data sources compatible with Power BI"
 status: DRAFT
-tags: [power-bi, pbi-data-sources, pbi-home]
+tags: [power-bi, pbi-data-sources, pbi-home, pbi-best-practice]
 order:
     power-bi: 2
     pbi-data-sources: 1
     pbi-home: 1
+    pbi-best-practice: 1
+related:
+  tag: pbi-best-practice
 ---
 !!! warning Please note
 The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the data visualisation standards when producing data visualisation products.
@@ -72,7 +75,10 @@ There are eight different data reduction techniques covered in this article. The
 - [Switch to Mixed mode][source 12]  
   
 The [‘Data Modelling In Power BI: Helpful Tips & Best Practices’ article][source 14] may be useful.  
-And [‘Model data with Power BI’ training][source 13] is also available.    
+And [‘Model data with Power BI’ training][source 13] is also available.  
+
+
+## Power BI Best Practices    
 
 
 

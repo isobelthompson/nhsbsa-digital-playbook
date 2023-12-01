@@ -3,11 +3,14 @@ layout: article
 title: "Workspaces"
 description: "Overview of Power BI workspaces"
 status: DRAFT
-tags: [power-bi, pbi-workspaces, pbi-home]
+tags: [power-bi, pbi-workspaces, pbi-home, pbi-best-practice]
 order:
     power-bi: 2
     pbi-workspaces: 1
     pbi-home: 2
+    pbi-best-practice: 2
+related:
+  tag: pbi-best-practice
 ---
 !!! warning Please note
 The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the data visualisation standards when producing data visualisation products.
@@ -118,7 +121,10 @@ The directorates and initials are as follows:
     Workforce Transformation - WT  
   
 <ins> Product level </ins>  
-If your workspace’s primary purpose is delivering a product, and Development, Testing and Production workspaces are being used for your team, the domain name should be prefixed with DEV, TEST or PROD respectively. The name of the product will then follow, for example, ‘TEST eDen’ or ‘PROD NHS Jobs’.
+If your workspace’s primary purpose is delivering a product, and Development, Testing and Production workspaces are being used for your team, the domain name should be prefixed with DEV, TEST or PROD respectively. The name of the product will then follow, for example, ‘TEST eDen’ or ‘PROD NHS Jobs’.  
+  
+    
+## Power BI Best Practices
 
 
 

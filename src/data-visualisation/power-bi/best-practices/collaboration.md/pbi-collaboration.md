@@ -3,11 +3,14 @@ layout: article
 title: "Collaborative working"
 description: "Best practices for working collaboratively using Power BI"
 status: DRAFT
-tags: [power-bi, pbi-collab, pbi-home]
+tags: [power-bi, pbi-collab, pbi-home, pbi-best-practice]
 order:
     power-bi: 2
     pbi-collab: 1
     pbi-home: 3
+    pbi-best-practice: 3
+related:
+  tag: pbi-best-practice
 ---
 ## Version control  
   

@@ -3,11 +3,14 @@ layout: article
 title: "Power BI licences"
 description: "Guidance on Power BI licence types and current NHSBSA set-up"
 status: DRAFT
-tags: [power-bi, pbi-licences, pbi-home]
+tags: [power-bi, pbi-licences, pbi-home, pbi-standards]
 order:
     power-bi: 2
     pbi-licences: 1
     pbi-home: 5
+    pbi-standards: 3
+related:
+  tag: pbi-standards
 ---
 !!! warning Please note
 This documentation contains Microsoft guidance alongside our organisational guidance to ensure Power BI users are aware of the licence set-up needed in viewing and creating dashboards and reports using Power BI.
@@ -55,6 +58,9 @@ If users have Power BI Desktop (the development tool), the development file can 
 Currently across the NHSBSA we are on E5 licences, and Power BI Pro licences are used for development and publishing purposes. As developers are currently using Pro licences, Pro licences are also needed to be requested for the viewers of a dashboard published. Essentially, [you need a Pro licence to view a Pro output][link 6].  
   
 [Premium Capacity][link 7] allows viewers to view reports and dashboards with no licence needed. For example, the Data Science and Official Stats team could share a link with anyone, internal or external to the organisation for the users to view, regardless of their license status. Currently we are not on Premium Capacity and therefore this functionality is not available.  
+
+
+## Power BI Standards  
   
 
 

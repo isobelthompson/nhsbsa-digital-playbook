@@ -3,11 +3,14 @@ layout: article
 title: "User hints"
 description: "Examples of user hints and tips available for Power BI users"
 status: DRAFT
-tags: [power-bi, pbi-user-hints, pbi-home]
+tags: [power-bi, pbi-user-hints, pbi-home, pbi-standards]
 order:
     power-bi: 2
     pbi-user-hints: 1
     pbi-home: 4
+    pbi-standards: 1
+related:
+  tag: pbi-standards
 ---
 !!! warning Please note
 The Power BI section includes functionalities and ways of working specific to Power BI but it is worth mentioning that the Power BI guidance must go hand in hand with the data visualisation standards when producing data visualisation products.
@@ -111,7 +114,10 @@ The maximum number of personal bookmarks per report is 20. When you create a boo
 - Sort order
 - Drill location  
   
-Microsoft have [guidance on bookmarks][hint 6] available online.
+Microsoft have [guidance on bookmarks][hint 6] available online.  
+  
+    
+## Power BI Standards
 
 
   
