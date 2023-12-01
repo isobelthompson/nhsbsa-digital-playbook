@@ -7,7 +7,7 @@ tags: [power-bi, power-certifications, pbi-home]
 order:
     power-bi: 2
     power-certifications: 1
-    pbi-home: 5
+    pbi-home: 8
 related:
     tag: [cert-home]
 ---
