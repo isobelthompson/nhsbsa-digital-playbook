@@ -22,7 +22,7 @@ For dashboards which are being developed by more than one developer, it is possi
   
 ## Power BI Explorer  
   
-[Power BI Explorer is a free tool you can install on your machine][link2]. For dashboards which are being developed by more than one developer, you can create a copy of the dashboard and then compare changes, or compare changes of your report using Git.  
+[Power BI Explorer is a free tool you can install on your machine][link2]. For dashboards which are being developed by more than one developer, you can create a copy of the dashboard and then compare changes, or compare changes of your report using Git. You can follow a tutorial within the tool itself.  
   
 ### Comparing reports  
   
@@ -67,7 +67,7 @@ Select 'Inspect report' and load in your .pbix file:
   
 ![alt text](../images/pbi-explorer8.png)  
   
-The Summary page gives you information on: Pages, Visuals, Fields, Filters, Issues and Themes:  
+The Summary page gives you information on: Pages, Visuals, Fields, Filters, Issues and Themes.  
   
 ![alt text](../images/pbi-explorer9.png)  
   
@@ -95,7 +95,7 @@ Track usage in the Data Model Explorer shows which variables are being used and 
   
 ![Alt text](../images/pbi-explorer14.png)  
   
-
+## Power BI Best Practices
 
 [link1]: https://learn.microsoft.com/en-us/power-bi/developer/projects/projects-git
 [link2]: https://www.pbiexplorer.com/

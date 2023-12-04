@@ -27,7 +27,7 @@ To ensure our users have access to this information as they need it, it is recom
   
 An example of what this could look like for a user has been created within the Power BI template:  
   
-![An example User Hints Power BI report page](../images/hint-page.png)  
+![An example User Hints Power BI report page](images/hint-page.png)  
   
   
 ## Selecting and filtering data  
@@ -36,17 +36,17 @@ Filtering your dashboard by selections is extremely useful. A dashboard can be d
   
 An example of a dashboard dropdown filters, with selections made using the CTRL key:  
   
-![Screenshot showing an example of a dropdown list filter](../images/dropdown.png)  
+![Screenshot showing an example of a dropdown list filter](images/dropdown.png)  
 
 You can also select and filter your dashboard by values in a table or chart by using the SHIFT or CTRL keyboard keys.  
   
 If a filter panel is present, there is no need to use keyboard keys to use the filter. It will work by clicking on selections. Filters can either work across all pages, or across one page in particular. The developer chooses which filters are present on a dashboard.  
   
-![The Power BI filters pane](../images/filter-pane.png)  
+![The Power BI filters pane](images/filter-pane.png)  
 
 To reset the Filters pane to the designer's defaults, select the Reset icon from the top menu bar.  
   
-![Screenshot showing the reset filters button](../images/reset-button.png)  
+![Screenshot showing the reset filters button](images/reset-button.png)  
 
 Microsoft have [guidance for filters][hint 2] available online.  
 
@@ -57,11 +57,11 @@ Some charts have variables present, which it would be useful to delve deeper int
   
 You can tell if a visual has a hierarchy by hovering over it. If the drill control options appear in the action bar, your visual has a hierarchy and you can click on the drilldown icon to see further information:  
   
-![Screenshot showing the drill down icons on a visual](../images/drill-down.png)  
+![Screenshot showing the drill down icons on a visual](images/drill-down.png)  
   
 Another way to access the drill features is by right-clicking a data point on the visual to open a menu with available options.  
   
-![Screenshot showing the menu that appears when a visual is right-clicked](../images/drill-down-2.png)  
+![Screenshot showing the menu that appears when a visual is right-clicked](images/drill-down-2.png)  
   
 Microsoft have [guidance for drill downs][hint 3] available online. 
   
@@ -82,9 +82,9 @@ For accessibility purposes, in having an alternative way to consume data shown i
 Q&A is available on dashboards in the Power BI service, and at the bottom of the dashboard in Power BI mobile.  
 Q&A is available in reports if the report designer added a specific type of interactive visual called a Q&A visual or added a Q&A button. Ask natural language questions and create new report visuals that represent the answers to your questions.  
 
-![Screenshot showing where to enter natural language questions in the Power BI service](../images/QA-bar.png)  
+![Screenshot showing where to enter natural language questions in the Power BI service](images/QA-bar.png)  
   
-![Screenshot showing the specific Q&A visual](../images/QA-visual.png)  
+![Screenshot showing the specific Q&A visual](images/QA-visual.png)  
 
 Microsoft have [guidance on Q&A functionality][hint 4] available online. 
   
@@ -95,7 +95,7 @@ What can you do to ensure you're using the latest content? In most cases, you do
   
 If you have questions about content freshness, contact the designer directly. The examples below show you how to identify and contact the owner of your content.  
   
-![Screenshot showing where to find owner and refresh date](../images/owner.png)  
+![Screenshot showing where to find owner and refresh date](images/owner.png)  
   
 Microsoft have [guidance on checking data refreshes][hint 5] available online.  
   

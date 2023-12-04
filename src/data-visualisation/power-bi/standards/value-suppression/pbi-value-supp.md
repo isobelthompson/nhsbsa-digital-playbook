@@ -14,9 +14,9 @@ related:
 ---
 ## Statistical Disclosure Control (SDC) Protocol  
   
-The [Statistical Disclosure Control Protocol][link 1] was developed to suppress identifiable information and data from individuals where there is a small base size of 1-4. Absolute 0 values are able to be shown within a table or chart. It is important to be mindful of percentages when implementing the SDC Protocol, as if the count can be worked out based on percentages, this will need to be suppressed.  
+The [Statistical Disclosure Control Protocol][link 1] was developed to suppress identifiable information and data from individuals where there is a small base size of between 1-4. Absolute 0 values are able to be shown within a table or chart. It is important to be mindful of percentages when implementing the SDC Protocol, as if the count can be worked out based on percentages, this will need to be suppressed.  
   
-This chart is an example of what suppression of a count of 1-4 can look like:  
+This chart is an example of what suppression of a count of between 1-4 can look like:  
   
 ![ alt text](../images/value-image.png)  
   
@@ -49,7 +49,7 @@ The following measure was then created:
   
 Now any values higher than 0 but equal or less than 4 will be given the arbitrary value of -0.01. This is so that the values are marked out as distinct from 0, for use in other measures.  
   
-Chart Count was next created as a measure:  
+'Chart Count' was next created as a measure:  
   
 ![Alt text](../images/value-image4.png)  
   
@@ -59,7 +59,7 @@ The minimum value for the y axis has been set as 0 for consistency.
 ![Alt text](../images/value-image5.png)  
   
 Redacted values of between 1 and 4 were not yet being labelled correctly for the user to see.
-'# Headcount Label' was created as a measure to select these values. The below says if any values of #Count are greater than or equal to -0.001 (which all apart from the -0.01 values will be), then display 0*. The asterisk indicates to the user that low base sizes have been redacted. It is important to include this as a disclaimer on the dashboard so users are aware.  
+'# Headcount Label' was created as a measure to select these values. The below says if any values of '# Count' are greater than or equal to -0.001 (which all apart from the -0.01 values will be), then display 0*. The asterisk indicates to the user that low base sizes have been redacted. It is important to include this as a disclaimer on the dashboard so users are aware.  
   
 ![Alt text](../images/value-image6.png)  
   
@@ -67,7 +67,7 @@ Add '# Headcount Label' on as a tooltip:
   
 ![Alt text](../images/value-image7.png)  
   
-To make this clear to users, so that they can clearly see the 0* values, toggle Data labels as on, and add #Headcount Label in as a Custom label:  
+To make this clear to users, so that they can clearly see the 0* values, toggle Data labels as on, and add '# Headcount Label' in as a Custom label:  
   
 ![Alt text](../images/value-image8.png)  
   

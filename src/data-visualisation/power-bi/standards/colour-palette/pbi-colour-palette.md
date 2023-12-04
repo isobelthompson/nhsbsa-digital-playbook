@@ -14,7 +14,7 @@ related:
 ---
 ## Importing the NHSBSA colour palette  
   
-You can [upload colour palettes into Power BI by following this guidance][link 1]. An NHSBSA colour palette (theme) has been created based on the [NHSBSA colour guidance](../../../../colour/), using the NHS branding colours, and accessible RAG colours. You can download the [colour palette to use here][link 2]. A theme is saved as a json file and can be edited if need be. Using a theme ensures that all visualisations follow the necessary colours, to align with our corporate identity, and that visualisations look consistent.  
+You can [upload colour palettes into Power BI by following this guidance][link 1]. An NHSBSA colour palette (theme) has been created based on the [NHSBSA colour guidance](../../../../colour/), using the NHS branding colours, and accessible RAG colours. You can [download the colour palette to use here][link 2]. A theme is saved as a json file and can be edited if need be. Using a theme ensures that all visualisations follow the necessary colours, to align with our corporate identity, and that visualisations look consistent.  
   
     
 ## Power BI Standards
