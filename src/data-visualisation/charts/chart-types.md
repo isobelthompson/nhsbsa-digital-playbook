@@ -23,7 +23,7 @@ The [four main questions][chart 2] to help you decide which chart type to use ar
 - Do you want to better understand the **relationship** between two or more variables?
 - Do you want to show the **distribution** of your data?  
   
-![Green rectangle with the words 'What would you like to show?' in white text inside it. The words 'comparison', 'distribution', 'composition', and 'relationship' are in black text on the outside of each of teh four sides (starting at the top andworking clockwise). Out from each of these words are tree diagrams with different chart type names and examples. ](../images/chart-tree.png)  
+![Green rectangle with the words 'What would you like to show?' in white text inside it. The words 'comparison', 'distribution', 'composition', and 'relationship' are in black text on the outside of each of the four sides (starting at the top andworking clockwise). Out from each of these words are tree diagrams with different chart type names and examples. ](../images/chart-tree.png)  
   
 ::: details Source
 

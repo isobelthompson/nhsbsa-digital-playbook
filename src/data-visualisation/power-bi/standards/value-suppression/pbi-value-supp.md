@@ -69,7 +69,7 @@ Add '# Headcount Label' on as a tooltip:
   
 To make this clear to users, so that they can clearly see the 0* values, toggle Data labels as on, and add '# Headcount Label' in as a Custom label:  
   
-![Screenshot showing the 'Filters' and 'Vizualisations' panels found on the right hand side of the report tab in Power BI desktop. Under 'Vizualisations', the option for 'Data labels' is toggled 'on' and this is outlined in a red box. Further down the 'Vizualisations' panel the 'Custom label' toggle is also 'on' and the field selected is '# Headcount lebels'. This is also outlined in a red box. To the left of the 'Filters' panel, where part of the line graph on the canvas can be seen, the very end of teh line is outlined in a red box to draw attention to the custom label. ](../images/value-image8.png)  
+![Screenshot showing the 'Filters' and 'Vizualisations' panels found on the right hand side of the report tab in Power BI desktop. Under 'Vizualisations', the option for 'Data labels' is toggled 'on' and this is outlined in a red box. Further down the 'Vizualisations' panel the 'Custom label' toggle is also 'on' and the field selected is '# Headcount lebels'. This is also outlined in a red box. To the left of the 'Filters' panel, where part of the line graph on the canvas can be seen, the very end of the line is outlined in a red box to draw attention to the custom label. ](../images/value-image8.png)  
   
 Next, add the disclaimer onto the dashboard by toggling on a subtitle.  
   

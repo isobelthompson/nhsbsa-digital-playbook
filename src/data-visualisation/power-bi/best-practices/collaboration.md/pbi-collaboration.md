@@ -93,7 +93,7 @@ Outbound interactions are shown in blue:
   
 Track usage in the Data Model Explorer shows which variables are being used and where:  
   
-![Screenshot showing the page that opens after selecting 'Inspect reports', with the 'Track usage' pane open at teh right hand side of teh screen. Under 'Track usage' there is a table and the 6th row down is highlighted blue and outlined in red to draw attention to it. The value of this row under the first column titled 'Name' is 'Date ended' and the value under the 2nd column titled 'Type' is 'Column'. There are 4 tabs at the bottom of the page that are labeled from left to right: 'Overall', 'Year', 'Month', Further details'. The 'Year' tab is selected and beneath this is a table outlined in a red box for emphasis. The table shows the usage information for the row selected in the table to the right of the page.](../images/pbi-explorer14.png)  
+![Screenshot showing the page that opens after selecting 'Inspect reports', with the 'Track usage' pane open at the right hand side of the screen. Under 'Track usage' there is a table and the 6th row down is highlighted blue and outlined in red to draw attention to it. The value of this row under the first column titled 'Name' is 'Date ended' and the value under the 2nd column titled 'Type' is 'Column'. There are 4 tabs at the bottom of the page that are labeled from left to right: 'Overall', 'Year', 'Month', Further details'. The 'Year' tab is selected and beneath this is a table outlined in a red box for emphasis. The table shows the usage information for the row selected in the table to the right of the page.](../images/pbi-explorer14.png)  
   
 ## Power BI Best Practices
 
